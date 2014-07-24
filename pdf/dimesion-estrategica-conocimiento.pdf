@@ -76,7 +76,7 @@ endobj
  /Dest [ 11 0 R
  /XYZ
  68.69291
- 501.8778
+ 477.8778
  0 ]
  /Rect [ 472.5467
  599.3636
@@ -132,9 +132,9 @@ endobj
  612.8636
  0 ]
  /Rect [ 68.69291
- 488.3778
+ 464.3778
  136.7329
- 500.3778 ]
+ 476.3778 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -171,7 +171,7 @@ endobj
 % 'R13': class PDFInfo 
 13 0 obj
 << /Author (Antonio Mart\355nez)
- /CreationDate (D:20140724203451-01'00')
+ /CreationDate (D:20140724203855-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -1149,7 +1149,7 @@ endobj
 % 'R21': class PDFStream 
 21 0 obj
 % page stream
-<< /Length 1710 >>
+<< /Length 1995 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1160,24 +1160,44 @@ BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL 3.08648 Tw (La gesti\363n del conocimiento tr
 Q
 Q
 q
-1 0 0 1 261.2778 645.2636 cm
+1 0 0 1 62.69291 723.0236 cm
+Q
+q
+1 0 0 1 62.69291 621.2636 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 198.5849 21 cm
 q
 72.72 0 0 77.76 0 0 cm
 /FormXob.dadcbfc0b906be522d0c279c6ce7c71e Do
 Q
 Q
 q
-1 0 0 1 62.69291 616.9172 cm
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F3 12 Tf 12 TL 163.2569 0 Td (El ciclo del conocimiento) Tj T* -163.2569 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 621.2636 cm
+Q
+q
+1 0 0 1 62.69291 592.9172 cm
 n 0 14.17323 m 469.8898 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 610.9172 cm
-Q
-q
-1 0 0 1 62.69291 610.9172 cm
+1 0 0 1 62.69291 586.9172 cm
 Q
 q
 1 0 0 1 62.69291 586.9172 cm
+Q
+q
+1 0 0 1 62.69291 562.9172 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1197,17 +1217,17 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 586.9172 cm
+1 0 0 1 62.69291 562.9172 cm
 Q
 q
-1 0 0 1 62.69291 530.2243 cm
-Q
-q
-1 0 0 1 62.69291 501.8778 cm
-n 0 14.17323 m 469.8898 14.17323 l S
+1 0 0 1 62.69291 506.2243 cm
 Q
 q
 1 0 0 1 62.69291 477.8778 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 453.8778 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1219,7 +1239,7 @@ Q
 q
 1 0 0 1 91.03937 0 cm
 q
-BT 1 0 0 1 0 12 Tm 3.838299 Tw 12 TL /F1 12 Tf 0 0 0 rg (Nonaka, I \(1994\) ) Tj /F3 12 Tf (A Dynamic Theory of Organizational Knowledge) Tj T* 0 Tw (Creation) Tj /F1 12 Tf (, Organization Science, vol 5, num 1, pp 14-37) Tj T* ET
+BT 1 0 0 1 0 12 Tm .254799 Tw 12 TL /F1 12 Tf 0 0 0 rg (Nonaka, Ikujiro \(1994\) ) Tj /F3 12 Tf (A Dynamic Theory of Organizational Knowledge) Tj T* 0 Tw (Creation) Tj /F1 12 Tf (, Organization Science, vol 5, num 1, pp 14-37) Tj T* ET
 Q
 Q
 q
@@ -1280,18 +1300,18 @@ xref
 0000021011 00000 n
 0000029180 00000 n
 0000036825 00000 n
-0000038638 00000 n
-0000038757 00000 n
-0000038834 00000 n
-0000038911 00000 n
+0000038923 00000 n
+0000039042 00000 n
+0000039119 00000 n
+0000039196 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(E\213"\241\245\371\201c\351\001\370U\027Y\377\234) (E\213"\241\245\371\201c\351\001\370U\027Y\377\234)] 
+ [(\271-\220\221\326\375\276\371iK\221\313\276o\256\211) (\271-\220\221\326\375\276\371iK\221\313\276o\256\211)] 
 
  /Info 13 0 R
  /Root 12 0 R
  /Size 26 >>
 startxref
-38958
+39243
 %%EOF
