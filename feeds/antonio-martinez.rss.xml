@@ -1,5 +1,213 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antonio Martínez</title><link>http://amarjen.github.io/</link><description></description><atom:link href="http://amarjen.github.io/feeds/antonio-martinez.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 25 Jul 2014 20:05:00 +0200</lastBuildDate><item><title>Fundamentos teóricos del gobierno corporativo</title><link>http://amarjen.github.io/fundamentos-teoricos-gobierno-corporativo.html</link><description>&lt;p&gt;&lt;strong&gt;Este artículo es un resumen de&lt;/strong&gt; &lt;a class="citation-reference" href="#bilbao-2013" id="id1"&gt;[BILBAO-2013]&lt;/a&gt; &lt;strong&gt;epígrafe II, capítulo 14&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antonio Martínez</title><link>http://amarjen.github.io/</link><description></description><atom:link href="http://amarjen.github.io/feeds/antonio-martinez.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 26 Jul 2014 00:00:00 +0200</lastBuildDate><item><title>Estrategia e Internet</title><link>http://amarjen.github.io/estrategia-internet.html</link><description>&lt;p&gt;&lt;strong&gt;Este artículo es un resumen de&lt;/strong&gt; &lt;a class="citation-reference" href="#bilbao-2013" id="id1"&gt;[BILBAO-2013]&lt;/a&gt; , &lt;strong&gt;capítulo 6&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Internet incide en los tres terminos de la ecuación:&lt;/p&gt;
+&lt;p&gt;$$B_{\uparrow}=I_{\uparrow}-C_{\downarrow}$$&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Beneficio:&lt;/strong&gt; Permite la búsqueda de nuevas formas de beneficio&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ingresos:&lt;/strong&gt; Internet como nuevo canal de crecimiento&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Costes:&lt;/strong&gt; Internet reduce el proceso y abarata los costes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Los motivos para vender por internet son, entre otros:&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Mantenerse a la altura de la competencia&lt;/li&gt;
+&lt;li&gt;Mejora de la imagen&lt;/li&gt;
+&lt;li&gt;Aceleración del proceo de negocio&lt;/li&gt;
+&lt;li&gt;Captación de nueos clientes&lt;/li&gt;
+&lt;li&gt;Mejorar la calidad del servicio&lt;/li&gt;
+&lt;li&gt;Expansión geográfica del mercado&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Las TIC no implican directamente un rendimiento sobre la actividad, sino que
+suponen un soporte básico a partir del cual implantar aplicaciones que si tengan
+efectos.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Obstáculos percibidos:&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Productos inadecuados&lt;/li&gt;
+&lt;li&gt;La empresa no lo necesita&lt;/li&gt;
+&lt;li&gt;Clientes no preparados&lt;/li&gt;
+&lt;li&gt;Incertidumbre del marco legal&lt;/li&gt;
+&lt;li&gt;Seguridad en los pagos&lt;/li&gt;
+&lt;li&gt;Problemas logísticos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;En España falta mucho por avanzar en el uso de internet, siendo el potencial
+enorme.&lt;/p&gt;
+&lt;p&gt;La infraestructura de las TIC en España es similar al europeo, pero el gasto
+$TIC/PIB$ es de los más bajos de Europa y muy inferior a Japón y EEUU.&lt;/p&gt;
+&lt;div class="section" id="internet-y-la-estructura-de-la-industria"&gt;
+&lt;h2&gt;Internet y la estructura de la industria&lt;/h2&gt;
+&lt;p&gt;Según Porter, Internet ha creado nuevas industrias, pero su gran impacto ha sido
+la reconfiguración de las industrias existentes con altos costes de comunicación
+(enseñanza a distancia, venta por catálogo...)&lt;/p&gt;
+&lt;p&gt;Observando distintas industrias se observa diversas tendencias; algunas
+positivas, otras negativas, desde el punto de vista de la empresa.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Amenaza de la competencia actual&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;[-] Diferencia entre competidores&lt;/li&gt;
+&lt;li&gt;[-] Tendencia a competir en precios&lt;/li&gt;
+&lt;li&gt;[+] Mayor alcance geográfico&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Amenaza de la competencia potencial&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;[-] Menores barreras de entrada&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Amenaza de productos sustitutivos&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;[+] Aumenta el tamaño del mercado&lt;/li&gt;
+&lt;li&gt;[-] Mayor número de productos sustitutivos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Amenaza del poder de negociación de los proveedores&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;[-] El proveedor puede tener acceso al consumidor final&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Amenaza del poder de negociación de los compradores&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;[+] Eliminar canales poderosos&lt;/li&gt;
+&lt;li&gt;[-] Aumenta el poder de negociación de los compradores&lt;/li&gt;
+&lt;li&gt;[-] Disminuyen los costes de cambio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Cada sector evolucionará de forma distinta, si se analiza el impacto en las
+cinco fuerzas competitivas se verá que internet seguirá presionando muchos
+sectores.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="internet-y-la-ventaja-competitiva"&gt;
+&lt;h2&gt;Internet y la ventaja competitiva&lt;/h2&gt;
+&lt;p&gt;Las ventajas en precios y costes pueden conseguirse, por &lt;em&gt;eficacia operativa&lt;/em&gt; o
+&lt;em&gt;posicionamiento estratégico&lt;/em&gt;&lt;/p&gt;
+&lt;div class="section" id="eficacia-operativa"&gt;
+&lt;h3&gt;Eficacia operativa&lt;/h3&gt;
+&lt;p&gt;Internet es la herramienta más poderosa para aumentar la eficacia operativa. Las
+empresas conseguirán ventaja competitiva si son capaces de alcanzar mayor
+eficacia operativa que sus competidores.&lt;/p&gt;
+&lt;p&gt;El problema, es que la ventaja competitiva es efímera, debido a la convergencia
+de la competencia. Al ser internet una plataforma abierta, resulta dificil
+obtener ventajas competitivas sostenibles.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="posicionamiento-estrategico"&gt;
+&lt;h3&gt;Posicionamiento estrátegico&lt;/h3&gt;
+&lt;p&gt;Por &lt;em&gt;posicionamiento estrátegico&lt;/em&gt; se entiende desarrollar actividades diferentes
+a la competencia o realizar las mismas de una forma distinta.&lt;/p&gt;
+&lt;p&gt;Debido a las dificultades de la eficacia operativa, el posicionamiento
+estratégico se convierte en clave.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Principios para establecer y mantener un posicionamiento estratégico, según Porter:&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Definir el &lt;strong&gt;objetivo&lt;/strong&gt; en términos de ROI&lt;/li&gt;
+&lt;li&gt;Definir una &lt;strong&gt;propuesta de valor&lt;/strong&gt; distinta a la competencia&lt;/li&gt;
+&lt;li&gt;La &lt;strong&gt;estrategia&lt;/strong&gt; se debe plasmar en una &lt;strong&gt;cadena de valor&lt;/strong&gt; única&lt;/li&gt;
+&lt;li&gt;Las estrategias siempre implican &lt;strong&gt;decisión&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;La estrategia tiene que definir cómo encajan todos los elementos de la empresa.&lt;/li&gt;
+&lt;li&gt;La estrategia quiere decir &lt;strong&gt;continuidad&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
+&lt;div class="section" id="internet-como-complemento-a-la-estrategia"&gt;
+&lt;h3&gt;Internet como complemento a la estrategia&lt;/h3&gt;
+&lt;p&gt;Para capitalizar el potencial de internet hay que dejar de tenerle miedo,
+internet está modificando elementos de la cadena de valor perno no la
+transformará totalmente.&lt;/p&gt;
+&lt;p&gt;Hay complementariesdad entre actividades &lt;em&gt;online&lt;/em&gt; y &lt;em&gt;offline&lt;/em&gt; debido a que
+introducir aplicaciones de internet en una actividad puede aumentar las
+necesidades de actividades físicas en otros eslabones de la cadena de valor.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="internet-y-la-cadena-de-valor"&gt;
+&lt;h3&gt;Internet y la cadena de valor&lt;/h3&gt;
+&lt;p&gt;La ventaja principal de internet es su capacidad de ligar las distintas
+actividades y dotarlas de información en tiempo real.&lt;/p&gt;
+&lt;p&gt;Aunque internet es importante en la cadena de valor, no es el único factor,
+otros convencionales siguen siendo importantes: personal, productos, activos
+fijos&lt;/p&gt;
+&lt;img alt="Cadena de valor de Porter" class="align-center" src="images/cadena-valor.png" /&gt;
+&lt;/div&gt;
+&lt;div class="section" id="conclusion"&gt;
+&lt;h3&gt;Conclusión&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Hay que adoptar internet por las grandes posibilidades que ofrece&lt;/li&gt;
+&lt;li&gt;Internet se explica como una etapa más en la trayectoria de las TIC&lt;/li&gt;
+&lt;li&gt;Las ventajas competitivas se deben medir con los mismos parámetros que en el resto de industrias&lt;/li&gt;
+&lt;li&gt;Los fundamentos de la estrategia permances iguales.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="referencias"&gt;
+&lt;h2&gt;Referencias&lt;/h2&gt;
+&lt;table class="docutils citation" frame="void" id="bilbao-2013" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[BILBAO-2013]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Paloma Bilbao, &lt;em&gt;et al&lt;/em&gt; (2013), &lt;em&gt;Política de Empresa y Estrategia&lt;/em&gt;, 3ªEd., Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;script type= "text/javascript"&gt;
+    if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+        var mathjaxscript = document.createElement('script');
+        mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+        mathjaxscript.type = 'text/javascript';
+        mathjaxscript.src = 'https:' == document.location.protocol
+                ? 'https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+                : 'http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+        mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+            "MathJax.Hub.Config({" +
+            "    config: ['MMLorHTML.js']," +
+            "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+            "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+            "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+            "    displayAlign: 'center'," +
+            "    displayIndent: '0em'," +
+            "    showMathMenu: true," +
+            "    tex2jax: { " +
+            "        inlineMath: [ ['$','$'] ], " +
+            "        displayMath: [ ['$$','$$'] ]," +
+            "        processEscapes: true," +
+            "        preview: 'TeX'," +
+            "    }, " +
+            "    'HTML-CSS': { " +
+            "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'black ! important'} }" +
+            "    } " +
+            "}); ";
+        (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+    }
+&lt;/script&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Martínez</dc:creator><pubDate>Sat, 26 Jul 2014 00:00:00 +0200</pubDate><guid>tag:amarjen.github.io,2014-07-26:estrategia-internet.html</guid><category>estrategia</category></item><item><title>Análisis estrátegico de la empresa multinacional</title><link>http://amarjen.github.io/analisis-estrategico-multinacionales.html</link><description>&lt;p&gt;&lt;strong&gt;Este artículo es un resumen de&lt;/strong&gt; &lt;a class="citation-reference" href="#bilbao-2013" id="id1"&gt;[BILBAO-2013]&lt;/a&gt; &lt;strong&gt;epígrafe V, capítulo 8&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Se distingue entre el análisis externo, que incluye el análisis sectorial y el
+análisis del país de origen y de destino, y el análisis interno de recursos y
+capacidades de la empresa.&lt;/p&gt;
+&lt;div class="section" id="analisis-sectorial"&gt;
+&lt;h2&gt;Análisis sectorial&lt;/h2&gt;
+&lt;p&gt;De acuerdo al grado de internacionalización de un sector, podemos
+distinguir cuatro tipos diferentes de industrias: Doméstica o protegida,
+Mulinacinoal doméstica, Internacionales y Globales.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="analisis-externo"&gt;
+&lt;h2&gt;Análisis externo&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="analisis-de-recursos-y-capacidades"&gt;
+&lt;h2&gt;Análisis de recursos y capacidades&lt;/h2&gt;
+&lt;p&gt;,&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="referencias"&gt;
+&lt;h2&gt;Referencias&lt;/h2&gt;
+&lt;table class="docutils citation" frame="void" id="bilbao-2013" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[BILBAO-2013]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Paloma Bilbao, &lt;em&gt;et al&lt;/em&gt; (2013), &lt;em&gt;Política de Empresa y Estrategia&lt;/em&gt;, 3ªEd., Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Martínez</dc:creator><pubDate>Fri, 25 Jul 2014 21:38:00 +0200</pubDate><guid>tag:amarjen.github.io,2014-07-25:analisis-estrategico-multinacionales.html</guid><category>estrategia</category></item><item><title>Fundamentos teóricos del gobierno corporativo</title><link>http://amarjen.github.io/fundamentos-teoricos-gobierno-corporativo.html</link><description>&lt;p&gt;&lt;strong&gt;Este artículo es un resumen de&lt;/strong&gt; &lt;a class="citation-reference" href="#bilbao-2013" id="id1"&gt;[BILBAO-2013]&lt;/a&gt; &lt;strong&gt;epígrafe II, capítulo 14&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Los fundamentos teóricos del gobierno corporativo son útiles para
 determinar si el origen de los problemas de eficiencia en la
 estrategia está o no en el sistema de gobierno de la empresa. Es esencial, por
@@ -234,7 +442,16 @@ La visión del empresa basada en el conocimiento, 3ªEd 2013, Editorial Universi
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Martínez</dc:creator><pubDate>Thu, 24 Jul 2014 12:36:00 +0200</pubDate><guid>tag:amarjen.github.io,2014-07-24:dimesion-estrategica-conocimiento.html</guid><category>estrategia</category><category>conocimiento</category></item><item><title>Eliminación de resultados por operaciones internas</title><link>http://amarjen.github.io/eliminacion-resultados.html</link><description>&lt;div class="section" id="activo-financiero-al-coste-amortizado"&gt;
 &lt;h2&gt;Activo financiero al coste amortizado&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;2004&lt;/strong&gt;&lt;/p&gt;
-&lt;style&gt; .line {text-align:right;} &lt;/style&gt;&lt;table border="1" class="docutils"&gt;
+&lt;div class="math"&gt;
+\begin{equation*}
+\begin{array} {|l|l|c|l|r|}
+\hline
+175 &amp;amp; \text{Resultado del ejercicio} &amp;amp; \text{a} &amp;amp; \text{Valores representativos a lp} &amp;amp; 175 \\
+\hline
+\end{array}
+\end{equation*}
+&lt;/div&gt;
+&lt;table border="1" class="docutils"&gt;
 &lt;caption&gt;Para preparar el balance consolidado&lt;/caption&gt;
 &lt;colgroup&gt;
 &lt;col width="7%" /&gt;
@@ -317,6 +534,36 @@ La visión del empresa basada en el conocimiento, 3ªEd 2013, Editorial Universi
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
+&lt;script type= "text/javascript"&gt;
+    if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+        var mathjaxscript = document.createElement('script');
+        mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+        mathjaxscript.type = 'text/javascript';
+        mathjaxscript.src = 'https:' == document.location.protocol
+                ? 'https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+                : 'http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+        mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+            "MathJax.Hub.Config({" +
+            "    config: ['MMLorHTML.js']," +
+            "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+            "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+            "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+            "    displayAlign: 'center'," +
+            "    displayIndent: '0em'," +
+            "    showMathMenu: true," +
+            "    tex2jax: { " +
+            "        inlineMath: [ ['$','$'] ], " +
+            "        displayMath: [ ['$$','$$'] ]," +
+            "        processEscapes: true," +
+            "        preview: 'TeX'," +
+            "    }, " +
+            "    'HTML-CSS': { " +
+            "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'black ! important'} }" +
+            "    } " +
+            "}); ";
+        (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+    }
+&lt;/script&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Martínez</dc:creator><pubDate>Thu, 24 Jul 2014 15:56:00 +0200</pubDate><guid>tag:amarjen.github.io,2014-07-20:eliminacion-resultados.html</guid><category>contabilidad</category><category>consolidación</category></item><item><title>Estrategias corporativas de crecimiento: Internacionalización y Diversificación</title><link>http://amarjen.github.io/estrategias-corportativas-crecimiento.html</link><description>&lt;div class="section" id="introduccion"&gt;
 &lt;h2&gt;Introducción&lt;/h2&gt;
 &lt;p&gt;Clasificación de estrategias básicas: (Ansoff, 1977)&lt;/p&gt;
