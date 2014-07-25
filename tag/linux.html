@@ -3,7 +3,7 @@
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>consolidación - Antonio Martínez</title>
+    <title>linux - Antonio Martínez</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -71,15 +71,20 @@ Antonio Martínez            </a>
     <ol class="breadcrumb">
         <li><a href="" title="Antonio Martínez"><i class="fa fa-home fa-lg"></i></a></li>
         <li><a href="/" title="Tags">Tags</a></li>
-        <li class="active">consolidación</li>
+        <li class="active">linux</li>
     </ol>
 
             <article>
 
-                <h2><a href="/eliminacion-resultados.html">Eliminación de resultados por operaciones internas</a></h2>
-                <div class="summary"><p class="first last">Short version for index and feeds</p>
-
-                    <a class="btn btn-default btn-xs" href="/eliminacion-resultados.html">more ...</a>
+                <h2><a href="/crear-booklets-linux.html">Crear booklets de PDF en linux</a></h2>
+                <div class="summary"><p><strong>Problema:</strong> Tenemos un archivo PDF y nos gustaría tenerlo impreso en formato
+booklet para facilitar la lectura, ahorrar papel, etc</p>
+<p><strong>Solución:</strong></p>
+<div class="highlight"><pre>pdf2ps input.pdf -| psbook | psnup -Pa4 -pa4 -2 -d | ps2pdf - output.pdf
+</pre></div>
+<p>Del comando anterior solo tenemos que modificar input.pdf por el archivo PDF que
+queremos procesar y ...</p>
+                    <a class="btn btn-default btn-xs" href="/crear-booklets-linux.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -222,7 +227,7 @@ Antonio Martínez            </a>
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2014 Antonio Martínez
+         <div class="col-xs-10">&copy; 2013 Antonio Martínez
             &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nd/4.0/80x15.png" /></a>

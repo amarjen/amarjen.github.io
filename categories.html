@@ -17,16 +17,17 @@
             <meta property="og:description" content="Antonio Martínez"/>
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="/theme/css/bootstrap.yeti.min.css" type="text/css"/>
+        <link rel="stylesheet" href="/theme/css/bootstrap.readable.min.css" type="text/css"/>
     <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="/theme/css/pygments/monokai.css" rel="stylesheet">
     <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+        <link href="/static/css/custom.css" rel="stylesheet">
 
 </head>
 <body>
 
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -41,13 +42,13 @@ Antonio Martínez            </a>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
                         <li >
+                            <a href="/category/contabilidad.html">Contabilidad</a>
+                        </li>
+                        <li >
                             <a href="/category/estrategia.html">Estrategia</a>
                         </li>
                         <li >
                             <a href="/category/linux.html">Linux</a>
-                        </li>
-                        <li >
-                            <a href="/category/misc.html">Misc</a>
                         </li>
                         <li >
                             <a href="/category/python.html">Python</a>
@@ -67,10 +68,26 @@ Antonio Martínez            </a>
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
+    <ol class="breadcrumb">
+        <li><a href="" title="Antonio Martínez"><i class="fa fa-home fa-lg"></i></a></li>
+        <li class="active">Categories</li>
+    </ol>
 
     <section id="categories">
         <h1>All Categories for Antonio Martínez</h1>
         <div class="panel-group" id="accordion">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-contabilidad">contabilidad <span class="badge pull-right">1</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-contabilidad" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2014-07-20T20:00:00">dom 20 julio 2014</time></span> <a href="/eliminacion-resultados.html">Eliminación de resultados por operaciones internas</a></p>
+                    </div>
+                </div>
+            </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
@@ -86,11 +103,12 @@ Antonio Martínez            </a>
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-linux">Linux <span class="badge pull-right">1</span></a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-linux">Linux <span class="badge pull-right">2</span></a>
                     </h4>
                 </div>
                 <div id="collapse-linux" class="panel-collapse collapse">
                     <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2013-04-13T20:05:00">sáb 13 abril 2013</time></span> <a href="/crear-booklets-linux.html">Crear booklets de PDF en linux</a></p>
                         <p><span class="categories-timestamp"><time datetime="2013-04-03T00:00:00">mié 03 abril 2013</time></span> <a href="/cambiar-terminal-gnome.html">Como cambiar la Terminal por defecto de gnome</a></p>
                     </div>
                 </div>
@@ -98,35 +116,27 @@ Antonio Martínez            </a>
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-misc">misc <span class="badge pull-right">1</span></a>
-                    </h4>
-                </div>
-                <div id="collapse-misc" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <p><span class="categories-timestamp"><time datetime="2014-07-20T20:00:00">dom 20 julio 2014</time></span> <a href="/eliminacion-resultados.html">Eliminación de resultados por operaciones internas</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-python">Python <span class="badge pull-right">1</span></a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-python">Python <span class="badge pull-right">4</span></a>
                     </h4>
                 </div>
                 <div id="collapse-python" class="panel-collapse collapse">
                     <div class="panel-body">
-                        <p><span class="categories-timestamp"><time datetime="2010-12-03T10:20:00">vie 03 diciembre 2010</time></span> <a href="/my-super-post.html">Supertitulo</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-11-11T23:17:00">dom 11 noviembre 2012</time></span> <a href="/calcular-beta-python.html">Calcular la beta de una acción con python</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-11-09T00:24:00">vie 09 noviembre 2012</time></span> <a href="/dibujar-frontera-eficiente.html">Dibujar la frontera eficiente de dos activos</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-11-07T00:44:00">mié 07 noviembre 2012</time></span> <a href="/calcular-el-drawdown-con-python.html">Calcular el Drawdown con Python</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-10-31T23:05:00">mié 31 octubre 2012</time></span> <a href="/visualizar-series-financieras-en-python.html">Visualizar series financieras en python</a></p>
                     </div>
                 </div>
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-uned">uned <span class="badge pull-right">1</span></a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-uned">uned <span class="badge pull-right">2</span></a>
                     </h4>
                 </div>
                 <div id="collapse-uned" class="panel-collapse collapse">
                     <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2014-07-25T11:26:00">vie 25 julio 2014</time></span> <a href="/fundamentos-teoricos-gobierno-corporativo.html">Fundamentos teóricos del gobierno corporativo</a></p>
                         <p><span class="categories-timestamp"><time datetime="2014-07-24T12:36:00">jue 24 julio 2014</time></span> <a href="/dimesion-estrategica-conocimiento.html">Dimensión estratégica del conocimiento</a></p>
                     </div>
                 </div>
@@ -161,48 +171,83 @@ Antonio Martínez            </a>
                             </a>
                         </li>
                         <li class="list-group-item tag-1">
+                            <a href="/tag/python.html">
+                                python
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-1">
+                            <a href="/tag/matplotlib.html">
+                                matplotlib
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
                             <a href="/tag/contabilidad.html">
                                 contabilidad
                             </a>
                         </li>
-                        <li class="list-group-item tag-5">
-                            <a href="/tag/publishing.html">
-                                publishing
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/pandas.html">
+                                pandas
                             </a>
                         </li>
-                        <li class="list-group-item tag-5">
-                            <a href="/tag/diversificacion.html">
-                                diversificacion
-                            </a>
-                        </li>
-                        <li class="list-group-item tag-5">
-                            <a href="/tag/gnome.html">
-                                gnome
-                            </a>
-                        </li>
-                        <li class="list-group-item tag-5">
+                        <li class="list-group-item tag-4">
                             <a href="/tag/internacionalizacion.html">
                                 internacionalizacion
                             </a>
                         </li>
-                        <li class="list-group-item tag-5">
-                            <a href="/tag/consolidacion.html">
-                                consolidación
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/r.html">
+                                R
                             </a>
                         </li>
-                        <li class="list-group-item tag-5">
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/diversificacion.html">
+                                diversificacion
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/beta.html">
+                                beta
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/teoria-de-carteras.html">
+                                teoria de carteras
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/crecimiento.html">
+                                crecimiento
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
                             <a href="/tag/conocimiento.html">
                                 conocimiento
                             </a>
                         </li>
-                        <li class="list-group-item tag-5">
-                            <a href="/tag/pelican.html">
-                                pelican
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/gnome.html">
+                                gnome
                             </a>
                         </li>
-                        <li class="list-group-item tag-5">
-                            <a href="/tag/crecimiento.html">
-                                crecimiento
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/consolidacion.html">
+                                consolidación
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/linux.html">
+                                linux
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/scipy.html">
+                                scipy
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/gobierno-corporativo.html">
+                                gobierno corporativo
                             </a>
                         </li>
                     </ul>

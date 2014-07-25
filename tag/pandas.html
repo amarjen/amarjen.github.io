@@ -3,7 +3,7 @@
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>publishing - Antonio Martínez</title>
+    <title>pandas - Antonio Martínez</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -17,16 +17,17 @@
             <meta property="og:description" content="Antonio Martínez"/>
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="/theme/css/bootstrap.yeti.min.css" type="text/css"/>
+        <link rel="stylesheet" href="/theme/css/bootstrap.readable.min.css" type="text/css"/>
     <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="/theme/css/pygments/monokai.css" rel="stylesheet">
     <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+        <link href="/static/css/custom.css" rel="stylesheet">
 
 </head>
 <body>
 
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -41,13 +42,13 @@ Antonio Martínez            </a>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
                         <li >
+                            <a href="/category/contabilidad.html">Contabilidad</a>
+                        </li>
+                        <li >
                             <a href="/category/estrategia.html">Estrategia</a>
                         </li>
                         <li >
                             <a href="/category/linux.html">Linux</a>
-                        </li>
-                        <li >
-                            <a href="/category/misc.html">Misc</a>
                         </li>
                         <li >
                             <a href="/category/python.html">Python</a>
@@ -67,11 +68,38 @@ Antonio Martínez            </a>
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
+    <ol class="breadcrumb">
+        <li><a href="" title="Antonio Martínez"><i class="fa fa-home fa-lg"></i></a></li>
+        <li><a href="/" title="Tags">Tags</a></li>
+        <li class="active">pandas</li>
+    </ol>
 
             <article>
-                <h2><a href="/my-super-post.html">Supertitulo</a></h2>
-                <div class="summary"><p>Short version for index and feeds</p>
-                    <a class="btn btn-default btn-xs" href="/my-super-post.html">more ...</a>
+
+		    <img src="http://tradercuantico.files.wordpress.com/2012/11/drawdown1.png" width="175" style="padding:5px; float:left;">
+                <h2><a href="/calcular-el-drawdown-con-python.html">Calcular el Drawdown con Python</a></h2>
+                <div class="summary"><p>El <em>drawdown</em> es una medida estadística que refleja los descensos
+relativos del valor de una inversión posteriores a los máximos que ésta
+alcanza. Ayuda a evaluar el riesgo de una inversión, cartera de valores,
+estrategia de trading, etc...</p>
+<p>Es esta <a class="reference external" href="http://comisef.wikidot.com/tutorial:drawdowns">página</a> se
+ofrece la definición matemática del drawdown ilustrándola en ...</p>
+                    <a class="btn btn-default btn-xs" href="/calcular-el-drawdown-con-python.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+
+		    <img src="http://tradercuantico.files.wordpress.com/2012/10/c3adndice1.png" width="175" style="padding:5px; float:left;">
+                <h2><a href="/visualizar-series-financieras-en-python.html">Visualizar series financieras en python</a></h2>
+                <div class="summary"><p>Una pequeña muestra de como en tan sólo cinco líneas de código podemos
+obtener un gráfico de una serie temporal financiera, en este caso del
+índice Ibex-35 desde el año 2000.</p>
+<p>Esta receta utiliza el método DataReader de la librería
+<a class="reference external" href="http://pandas.pydata.org/">pandas</a> para descargar datos financieros
+desde <a class="reference external" href="http://finance.yahoo.com">Yahoo Finance</a></p>
+<div class="highlight"><pre><span class="kn">import</span> <span class="nn">datetime ...</span></pre></div>
+                    <a class="btn btn-default btn-xs" href="/visualizar-series-financieras-en-python.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -103,48 +131,83 @@ Antonio Martínez            </a>
                             </a>
                         </li>
                         <li class="list-group-item tag-1">
+                            <a href="/tag/python.html">
+                                python
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-1">
+                            <a href="/tag/matplotlib.html">
+                                matplotlib
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
                             <a href="/tag/contabilidad.html">
                                 contabilidad
                             </a>
                         </li>
-                        <li class="list-group-item tag-5">
-                            <a href="/tag/publishing.html">
-                                publishing
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/pandas.html">
+                                pandas
                             </a>
                         </li>
-                        <li class="list-group-item tag-5">
-                            <a href="/tag/diversificacion.html">
-                                diversificacion
-                            </a>
-                        </li>
-                        <li class="list-group-item tag-5">
-                            <a href="/tag/gnome.html">
-                                gnome
-                            </a>
-                        </li>
-                        <li class="list-group-item tag-5">
+                        <li class="list-group-item tag-4">
                             <a href="/tag/internacionalizacion.html">
                                 internacionalizacion
                             </a>
                         </li>
-                        <li class="list-group-item tag-5">
-                            <a href="/tag/consolidacion.html">
-                                consolidación
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/r.html">
+                                R
                             </a>
                         </li>
-                        <li class="list-group-item tag-5">
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/diversificacion.html">
+                                diversificacion
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/beta.html">
+                                beta
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/teoria-de-carteras.html">
+                                teoria de carteras
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/crecimiento.html">
+                                crecimiento
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
                             <a href="/tag/conocimiento.html">
                                 conocimiento
                             </a>
                         </li>
-                        <li class="list-group-item tag-5">
-                            <a href="/tag/pelican.html">
-                                pelican
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/gnome.html">
+                                gnome
                             </a>
                         </li>
-                        <li class="list-group-item tag-5">
-                            <a href="/tag/crecimiento.html">
-                                crecimiento
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/consolidacion.html">
+                                consolidación
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/linux.html">
+                                linux
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/scipy.html">
+                                scipy
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/gobierno-corporativo.html">
+                                gobierno corporativo
                             </a>
                         </li>
                     </ul>
@@ -179,7 +242,7 @@ Antonio Martínez            </a>
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2010 Antonio Martínez
+         <div class="col-xs-10">&copy; 2012 Antonio Martínez
             &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nd/4.0/80x15.png" /></a>
