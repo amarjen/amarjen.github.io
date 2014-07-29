@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Antonio Martínez</title><link href="http://amarjen.github.io/" rel="alternate"></link><link href="http://amarjen.github.io/feeds/amarjen.atom.xml" rel="self"></link><id>http://amarjen.github.io/</id><updated>2012-11-11T23:17:00+01:00</updated><entry><title>Calcular la beta de una acción con python</title><link href="http://amarjen.github.io/calcular-beta-python.html" rel="alternate"></link><updated>2012-11-11T23:17:00+01:00</updated><author><name>amarjen</name></author><id>tag:amarjen.github.io,2012-11-11:calcular-beta-python.html</id><summary type="html">&lt;p&gt;Según el modelo
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Antonio Martínez</title><link href="/" rel="alternate"></link><link href="/feeds/amarjen.atom.xml" rel="self"></link><id>/</id><updated>2012-11-11T23:17:00+01:00</updated><entry><title>Calcular la beta de una acción con python</title><link href="/calcular-beta-python.html" rel="alternate"></link><updated>2012-11-11T23:17:00+01:00</updated><author><name>amarjen</name></author><id>tag:,2012-11-11:calcular-beta-python.html</id><summary type="html">&lt;p&gt;Según el modelo
 &lt;a class="reference external" href="http://es.wikipedia.org/wiki/Modelo_de_valoraci%C3%B3n_de_activos_financieros"&gt;CAPM&lt;/a&gt;,
 la beta representa el riesgo sistémico de un activo, es decir, aquel que
 no puede reducirse diversificando. Mide la sensibilidad de la
@@ -82,7 +82,7 @@ diarios de AIG en 2011 fue de 1.61&lt;/p&gt;
         (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
     }
 &lt;/script&gt;
-</summary><category term="beta"></category><category term="matplotlib"></category><category term="python"></category><category term="scipy"></category></entry><entry><title>Dibujar la frontera eficiente de dos activos</title><link href="http://amarjen.github.io/dibujar-frontera-eficiente.html" rel="alternate"></link><updated>2012-11-09T00:24:00+01:00</updated><author><name>amarjen</name></author><id>tag:amarjen.github.io,2012-11-09:dibujar-frontera-eficiente.html</id><summary type="html">&lt;p&gt;Si tenemos una inversión repartida entre varios activos, es decir,
+</summary><category term="beta"></category><category term="matplotlib"></category><category term="python"></category><category term="scipy"></category></entry><entry><title>Dibujar la frontera eficiente de dos activos</title><link href="/dibujar-frontera-eficiente.html" rel="alternate"></link><updated>2012-11-09T00:24:00+01:00</updated><author><name>amarjen</name></author><id>tag:,2012-11-09:dibujar-frontera-eficiente.html</id><summary type="html">&lt;p&gt;Si tenemos una inversión repartida entre varios activos, es decir,
 diversificada, nos gustaría saber cuál es la asignación óptima de cada
 activo de forma que maximicemos la rentabilidad sin aumentar el riesgo.
 Sobre esta cuestión trata buena parte de la literatura financiera desde
@@ -176,7 +176,7 @@ Python...&lt;/p&gt;
         (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
     }
 &lt;/script&gt;
-</summary><category term="matplotlib"></category><category term="teoria de carteras"></category></entry><entry><title>Calcular el Drawdown con Python</title><link href="http://amarjen.github.io/calcular-el-drawdown-con-python.html" rel="alternate"></link><updated>2012-11-07T00:44:00+01:00</updated><author><name>amarjen</name></author><id>tag:amarjen.github.io,2012-11-07:calcular-el-drawdown-con-python.html</id><summary type="html">&lt;p&gt;El &lt;em&gt;drawdown&lt;/em&gt; es una medida estadística que refleja los descensos
+</summary><category term="matplotlib"></category><category term="teoria de carteras"></category></entry><entry><title>Calcular el Drawdown con Python</title><link href="/calcular-el-drawdown-con-python.html" rel="alternate"></link><updated>2012-11-07T00:44:00+01:00</updated><author><name>amarjen</name></author><id>tag:,2012-11-07:calcular-el-drawdown-con-python.html</id><summary type="html">&lt;p&gt;El &lt;em&gt;drawdown&lt;/em&gt; es una medida estadística que refleja los descensos
 relativos del valor de una inversión posteriores a los máximos que ésta
 alcanza. Ayuda a evaluar el riesgo de una inversión, cartera de valores,
 estrategia de trading, etc...&lt;/p&gt;
@@ -236,7 +236,7 @@ serie en el momento $t$ se define como:&lt;/p&gt;
         (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
     }
 &lt;/script&gt;
-</summary><category term="matplotlib"></category><category term="pandas"></category><category term="python"></category><category term="R"></category></entry><entry><title>Visualizar series financieras en python</title><link href="http://amarjen.github.io/visualizar-series-financieras-en-python.html" rel="alternate"></link><updated>2012-10-31T23:05:00+01:00</updated><author><name>amarjen</name></author><id>tag:amarjen.github.io,2012-10-31:visualizar-series-financieras-en-python.html</id><summary type="html">&lt;p&gt;Una pequeña muestra de como en tan sólo cinco líneas de código podemos
+</summary><category term="matplotlib"></category><category term="pandas"></category><category term="python"></category><category term="R"></category></entry><entry><title>Visualizar series financieras en python</title><link href="/visualizar-series-financieras-en-python.html" rel="alternate"></link><updated>2012-10-31T23:05:00+01:00</updated><author><name>amarjen</name></author><id>tag:,2012-10-31:visualizar-series-financieras-en-python.html</id><summary type="html">&lt;p&gt;Una pequeña muestra de como en tan sólo cinco líneas de código podemos
 obtener un gráfico de una serie temporal financiera, en este caso del
 índice Ibex-35 desde el año 2000.&lt;/p&gt;
 &lt;p&gt;Esta receta utiliza el método DataReader de la librería
