@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antonio Martínez</title><link>/</link><description></description><atom:link href="/feeds/amarjen.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 11 Nov 2012 23:17:00 +0100</lastBuildDate><item><title>Calcular la beta de una acción con python</title><link>/calcular-beta-python.html</link><description>&lt;p&gt;Según el modelo
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antonio Martínez</title><link>http://amarjen.github.io/</link><description></description><atom:link href="http://amarjen.github.io/feeds/amarjen.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 11 Nov 2012 23:17:00 +0100</lastBuildDate><item><title>Calcular la beta de una acción con python</title><link>http://amarjen.github.io/calcular-beta-python.html</link><description>&lt;p&gt;Según el modelo
 &lt;a class="reference external" href="http://es.wikipedia.org/wiki/Modelo_de_valoraci%C3%B3n_de_activos_financieros"&gt;CAPM&lt;/a&gt;,
 la beta representa el riesgo sistémico de un activo, es decir, aquel que
 no puede reducirse diversificando. Mide la sensibilidad de la
@@ -82,7 +82,7 @@ diarios de AIG en 2011 fue de 1.61&lt;/p&gt;
         (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
     }
 &lt;/script&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">amarjen</dc:creator><pubDate>Sun, 11 Nov 2012 23:17:00 +0100</pubDate><guid>tag:,2012-11-11:calcular-beta-python.html</guid><category>beta</category><category>matplotlib</category><category>python</category><category>scipy</category></item><item><title>Dibujar la frontera eficiente de dos activos</title><link>/dibujar-frontera-eficiente.html</link><description>&lt;p&gt;Si tenemos una inversión repartida entre varios activos, es decir,
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">amarjen</dc:creator><pubDate>Sun, 11 Nov 2012 23:17:00 +0100</pubDate><guid>tag:amarjen.github.io,2012-11-11:calcular-beta-python.html</guid><category>beta</category><category>matplotlib</category><category>python</category><category>scipy</category></item><item><title>Dibujar la frontera eficiente de dos activos</title><link>http://amarjen.github.io/dibujar-frontera-eficiente.html</link><description>&lt;p&gt;Si tenemos una inversión repartida entre varios activos, es decir,
 diversificada, nos gustaría saber cuál es la asignación óptima de cada
 activo de forma que maximicemos la rentabilidad sin aumentar el riesgo.
 Sobre esta cuestión trata buena parte de la literatura financiera desde
@@ -176,7 +176,7 @@ Python...&lt;/p&gt;
         (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
     }
 &lt;/script&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">amarjen</dc:creator><pubDate>Fri, 09 Nov 2012 00:24:00 +0100</pubDate><guid>tag:,2012-11-09:dibujar-frontera-eficiente.html</guid><category>matplotlib</category><category>teoria de carteras</category></item><item><title>Calcular el Drawdown con Python</title><link>/calcular-el-drawdown-con-python.html</link><description>&lt;p&gt;El &lt;em&gt;drawdown&lt;/em&gt; es una medida estadística que refleja los descensos
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">amarjen</dc:creator><pubDate>Fri, 09 Nov 2012 00:24:00 +0100</pubDate><guid>tag:amarjen.github.io,2012-11-09:dibujar-frontera-eficiente.html</guid><category>matplotlib</category><category>teoria de carteras</category></item><item><title>Calcular el Drawdown con Python</title><link>http://amarjen.github.io/calcular-el-drawdown-con-python.html</link><description>&lt;p&gt;El &lt;em&gt;drawdown&lt;/em&gt; es una medida estadística que refleja los descensos
 relativos del valor de una inversión posteriores a los máximos que ésta
 alcanza. Ayuda a evaluar el riesgo de una inversión, cartera de valores,
 estrategia de trading, etc...&lt;/p&gt;
@@ -236,7 +236,7 @@ serie en el momento $t$ se define como:&lt;/p&gt;
         (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
     }
 &lt;/script&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">amarjen</dc:creator><pubDate>Wed, 07 Nov 2012 00:44:00 +0100</pubDate><guid>tag:,2012-11-07:calcular-el-drawdown-con-python.html</guid><category>matplotlib</category><category>pandas</category><category>python</category><category>R</category></item><item><title>Visualizar series financieras en python</title><link>/visualizar-series-financieras-en-python.html</link><description>&lt;p&gt;Una pequeña muestra de como en tan sólo cinco líneas de código podemos
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">amarjen</dc:creator><pubDate>Wed, 07 Nov 2012 00:44:00 +0100</pubDate><guid>tag:amarjen.github.io,2012-11-07:calcular-el-drawdown-con-python.html</guid><category>matplotlib</category><category>pandas</category><category>python</category><category>R</category></item><item><title>Visualizar series financieras en python</title><link>http://amarjen.github.io/visualizar-series-financieras-en-python.html</link><description>&lt;p&gt;Una pequeña muestra de como en tan sólo cinco líneas de código podemos
 obtener un gráfico de una serie temporal financiera, en este caso del
 índice Ibex-35 desde el año 2000.&lt;/p&gt;
 &lt;p&gt;Esta receta utiliza el método DataReader de la librería
@@ -250,4 +250,4 @@ desde &lt;a class="reference external" href="http://finance.yahoo.com"&gt;Yahoo 
 &lt;span class="n"&gt;ibex35&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;Adj Close&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;plot&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;img alt="Visualizar series financieras en python" class="align-center" src="http://tradercuantico.files.wordpress.com/2012/10/c3adndice1.png" /&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">amarjen</dc:creator><pubDate>Wed, 31 Oct 2012 23:05:00 +0100</pubDate><guid>tag:,2012-10-31:visualizar-series-financieras-en-python.html</guid><category>matplotlib</category><category>pandas</category><category>python</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">amarjen</dc:creator><pubDate>Wed, 31 Oct 2012 23:05:00 +0100</pubDate><guid>tag:amarjen.github.io,2012-10-31:visualizar-series-financieras-en-python.html</guid><category>matplotlib</category><category>pandas</category><category>python</category></item></channel></rss>

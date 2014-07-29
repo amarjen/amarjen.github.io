@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Antonio Martínez</title><link href="/" rel="alternate"></link><link href="/feeds/antonio-martinez.atom.xml" rel="self"></link><id>/</id><updated>2014-07-28T23:46:00+02:00</updated><entry><title>El cuadro de mando integral y el mapa estratégico</title><link href="/cuadro-mando-integral-mapa-estrategico.html" rel="alternate"></link><updated>2014-07-28T23:46:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-28:cuadro-mando-integral-mapa-estrategico.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Antonio Martínez</title><link href="http://amarjen.github.io/" rel="alternate"></link><link href="http://amarjen.github.io/feeds/antonio-martinez.atom.xml" rel="self"></link><id>http://amarjen.github.io/</id><updated>2014-07-28T23:46:00+02:00</updated><entry><title>El cuadro de mando integral y el mapa estratégico</title><link href="http://amarjen.github.io/cuadro-mando-integral-mapa-estrategico.html" rel="alternate"></link><updated>2014-07-28T23:46:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-28:cuadro-mando-integral-mapa-estrategico.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 2, epígrafe III&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="cuadro-de-mando-integral"&gt;
@@ -189,7 +189,7 @@ Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category></entry><entry><title>La estrategia en sectores maduros</title><link href="/estrategia-sectores-maduros.html" rel="alternate"></link><updated>2014-07-27T17:21:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-27:estrategia-sectores-maduros.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+</summary><category term="estrategia"></category></entry><entry><title>La estrategia en sectores maduros</title><link href="http://amarjen.github.io/estrategia-sectores-maduros.html" rel="alternate"></link><updated>2014-07-27T17:21:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-27:estrategia-sectores-maduros.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bilbao" id="id1"&gt;[Bilbao]&lt;/a&gt; , capítulo 4, epígrafe V&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Un sector entra en la fase de madurez cuando deja de crecer a un ritmo
@@ -497,7 +497,7 @@ Hall&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category></entry><entry><title>Estrategia e Internet</title><link href="/estrategia-internet.html" rel="alternate"></link><updated>2014-07-26T00:00:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-26:estrategia-internet.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Este artículo es un resumen de&lt;/strong&gt; &lt;a class="citation-reference" href="#bilbao-2013" id="id1"&gt;[BILBAO-2013]&lt;/a&gt; , &lt;strong&gt;capítulo 6&lt;/strong&gt;&lt;/p&gt;
+</summary><category term="estrategia"></category></entry><entry><title>Estrategia e Internet</title><link href="http://amarjen.github.io/estrategia-internet.html" rel="alternate"></link><updated>2014-07-26T00:00:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-26:estrategia-internet.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Este artículo es un resumen de&lt;/strong&gt; &lt;a class="citation-reference" href="#bilbao-2013" id="id1"&gt;[BILBAO-2013]&lt;/a&gt; , &lt;strong&gt;capítulo 6&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Internet incide en los tres terminos de la ecuación:&lt;/p&gt;
 &lt;p&gt;$$B_{\uparrow}=I_{\uparrow}-C_{\downarrow}$$&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -678,7 +678,7 @@ fijos&lt;/p&gt;
         (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
     }
 &lt;/script&gt;
-</summary><category term="estrategia"></category></entry><entry><title>Fundamentos teóricos del gobierno corporativo</title><link href="/fundamentos-teoricos-gobierno-corporativo.html" rel="alternate"></link><updated>2014-07-25T11:40:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-25:fundamentos-teoricos-gobierno-corporativo.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Este artículo es un resumen de&lt;/strong&gt; &lt;a class="citation-reference" href="#bilbao-2013" id="id1"&gt;[BILBAO-2013]&lt;/a&gt; &lt;strong&gt;epígrafe II, capítulo 14&lt;/strong&gt;&lt;/p&gt;
+</summary><category term="estrategia"></category></entry><entry><title>Fundamentos teóricos del gobierno corporativo</title><link href="http://amarjen.github.io/fundamentos-teoricos-gobierno-corporativo.html" rel="alternate"></link><updated>2014-07-25T11:40:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-25:fundamentos-teoricos-gobierno-corporativo.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Este artículo es un resumen de&lt;/strong&gt; &lt;a class="citation-reference" href="#bilbao-2013" id="id1"&gt;[BILBAO-2013]&lt;/a&gt; &lt;strong&gt;epígrafe II, capítulo 14&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Los fundamentos teóricos del gobierno corporativo son útiles para
 determinar si el origen de los problemas de eficiencia en la
 estrategia está o no en el sistema de gobierno de la empresa. Es esencial, por
@@ -773,7 +773,7 @@ teoría de la empresa de los &lt;em&gt;stackeholders&lt;/em&gt;&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category><category term="gobierno corporativo"></category></entry><entry><title>Dimensión estratégica del conocimiento</title><link href="/dimesion-estrategica-conocimiento.html" rel="alternate"></link><updated>2014-07-24T12:36:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-24:dimesion-estrategica-conocimiento.html</id><summary type="html">&lt;div class="section" id="el-conocimiento-de-la-empresa"&gt;
+</summary><category term="estrategia"></category><category term="gobierno corporativo"></category></entry><entry><title>Dimensión estratégica del conocimiento</title><link href="http://amarjen.github.io/dimesion-estrategica-conocimiento.html" rel="alternate"></link><updated>2014-07-24T12:36:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-24:dimesion-estrategica-conocimiento.html</id><summary type="html">&lt;div class="section" id="el-conocimiento-de-la-empresa"&gt;
 &lt;h2&gt;El conocimiento de la empresa&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Conceptos previos:&lt;/strong&gt;&lt;/p&gt;
 &lt;dl class="docutils"&gt;
@@ -910,7 +910,7 @@ La visión del empresa basada en el conocimiento, 3ªEd 2013, Editorial Universi
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category><category term="conocimiento"></category></entry><entry><title>Eliminación de resultados por operaciones internas</title><link href="/eliminacion-resultados.html" rel="alternate"></link><updated>2014-07-24T15:56:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-20:eliminacion-resultados.html</id><summary type="html">&lt;div class="section" id="activo-financiero-al-coste-amortizado"&gt;
+</summary><category term="estrategia"></category><category term="conocimiento"></category></entry><entry><title>Eliminación de resultados por operaciones internas</title><link href="http://amarjen.github.io/eliminacion-resultados.html" rel="alternate"></link><updated>2014-07-24T15:56:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-20:eliminacion-resultados.html</id><summary type="html">&lt;div class="section" id="activo-financiero-al-coste-amortizado"&gt;
 &lt;h2&gt;Activo financiero al coste amortizado&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;2004&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="math"&gt;
@@ -1035,7 +1035,7 @@ La visión del empresa basada en el conocimiento, 3ªEd 2013, Editorial Universi
         (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
     }
 &lt;/script&gt;
-</summary><category term="contabilidad"></category><category term="consolidación"></category></entry><entry><title>Estrategias corporativas de crecimiento: Internacionalización y Diversificación</title><link href="/estrategias-corportativas-crecimiento.html" rel="alternate"></link><updated>2014-07-20T20:00:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-20:estrategias-corportativas-crecimiento.html</id><summary type="html">&lt;div class="section" id="introduccion"&gt;
+</summary><category term="contabilidad"></category><category term="consolidación"></category></entry><entry><title>Estrategias corporativas de crecimiento: Internacionalización y Diversificación</title><link href="http://amarjen.github.io/estrategias-corportativas-crecimiento.html" rel="alternate"></link><updated>2014-07-20T20:00:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-20:estrategias-corportativas-crecimiento.html</id><summary type="html">&lt;div class="section" id="introduccion"&gt;
 &lt;h2&gt;Introducción&lt;/h2&gt;
 &lt;p&gt;Clasificación de estrategias básicas: (Ansoff, 1977)&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
@@ -1304,7 +1304,7 @@ que la empresa incrementa gradualmente su compromiso internacional.&lt;/p&gt;
 &lt;div class="section" id="resultados-de-la-estrategia-de-diversificacion"&gt;
 &lt;h2&gt;Resultados de la estrategia de diversificación&lt;/h2&gt;
 &lt;/div&gt;
-</summary><category term="contabilidad"></category><category term="estrategia"></category><category term="crecimiento"></category><category term="internacionalizacion"></category><category term="diversificacion"></category></entry><entry><title>Crear booklets de PDF en linux</title><link href="/crear-booklets-linux.html" rel="alternate"></link><updated>2014-07-25T20:05:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2013-04-13:crear-booklets-linux.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Problema:&lt;/strong&gt; Tenemos un archivo PDF y nos gustaría tenerlo impreso en formato
+</summary><category term="contabilidad"></category><category term="estrategia"></category><category term="crecimiento"></category><category term="internacionalizacion"></category><category term="diversificacion"></category></entry><entry><title>Crear booklets de PDF en linux</title><link href="http://amarjen.github.io/crear-booklets-linux.html" rel="alternate"></link><updated>2014-07-25T20:05:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2013-04-13:crear-booklets-linux.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Problema:&lt;/strong&gt; Tenemos un archivo PDF y nos gustaría tenerlo impreso en formato
 booklet para facilitar la lectura, ahorrar papel, etc&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Solución:&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;pdf2ps input.pdf -| psbook | psnup -Pa4 -pa4 -2 -d | ps2pdf - output.pdf
