@@ -19,7 +19,7 @@ esta definida por:&lt;/p&gt;
 método &lt;em&gt;linregress&lt;/em&gt; del paquete &lt;em&gt;scipy.stats&lt;/em&gt; e ilustrarla en un bonito
 gráfico con &lt;em&gt;matplolib.&lt;/em&gt; Por ejemplo, la beta calculada con datos
 diarios de AIG en 2011 fue de 1.61&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image0" src="http://tradercuantico.files.wordpress.com/2012/11/beta.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image0" src="images/trading/beta.png" /&gt;&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;datetime&lt;/span&gt; &lt;span class="kn"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;dt&lt;/span&gt;
 &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;pandas.io.data&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;DataReader&lt;/span&gt;
 &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;scipy.stats&lt;/span&gt; &lt;span class="kn"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;stats&lt;/span&gt;
@@ -102,7 +102,7 @@ cada nivel de riesgo hay dos carteras distintas y se espera que un
 inversor racional elija aquella cuya rentabilidad es superior, de aqui
 el concepto de cartera eficiente. La parte superior de la bala
 representa la frontera eficiente.&lt;/p&gt;
-&lt;img alt="" class="align-center" src="/images/balamarkowitz.png" /&gt;
+&lt;img alt="" class="align-center" src="images/trading/balamarkowitz.png" /&gt;
 &lt;p&gt;Se puede generalizar para n activos y la conclusión es la misma. En otro
 articulo veremos como encontrar la cartera óptima, donde en algunos
 casos nos ayudaran los multiplicadores de Lagrange y en otros tendremos
@@ -205,7 +205,7 @@ serie en el momento $t$ se define como:&lt;/p&gt;
 &lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;fill_between&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;TRE&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;index&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;TRE&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;drawdown&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;color&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s"&gt;&amp;#39;green&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;show&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
-&lt;img alt="" src="http://tradercuantico.files.wordpress.com/2012/11/drawdown1.png" /&gt;
+&lt;img alt="" src="images/trading/drawdown1.png" /&gt;
 &lt;script type= "text/javascript"&gt;
     if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
         var mathjaxscript = document.createElement('script');
@@ -249,5 +249,5 @@ desde &lt;a class="reference external" href="http://finance.yahoo.com"&gt;Yahoo 
 &lt;span class="n"&gt;ibex35&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;DataReader&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;^IBEX&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;&amp;#39;yahoo&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;start&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;datetime&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;datetime&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;2000&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
 &lt;span class="n"&gt;ibex35&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;Adj Close&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;plot&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
-&lt;img alt="Visualizar series financieras en python" class="align-center" src="http://tradercuantico.files.wordpress.com/2012/10/c3adndice1.png" /&gt;
+&lt;img alt="Visualizar series financieras en python" class="align-center" src="images/trading/c3adndice1.png" /&gt;
 </summary><category term="matplotlib"></category><category term="pandas"></category><category term="python"></category></entry></feed>

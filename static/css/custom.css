@@ -1,2 +1,6 @@
 /* Referencias */
 .fn-backref {color: #191919}
+
+table.apunte
+  td:first-child { text-align: right}
+  td:last-child { text-align: right }

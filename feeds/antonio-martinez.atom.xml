@@ -1,5 +1,155 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Antonio Martínez</title><link href="http://amarjen.github.io/" rel="alternate"></link><link href="http://amarjen.github.io/feeds/antonio-martinez.atom.xml" rel="self"></link><id>http://amarjen.github.io/</id><updated>2014-07-28T23:46:00+02:00</updated><entry><title>El cuadro de mando integral y el mapa estratégico</title><link href="http://amarjen.github.io/cuadro-mando-integral-mapa-estrategico.html" rel="alternate"></link><updated>2014-07-28T23:46:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-28:cuadro-mando-integral-mapa-estrategico.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Antonio Martínez</title><link href="http://amarjen.github.io/" rel="alternate"></link><link href="http://amarjen.github.io/feeds/antonio-martinez.atom.xml" rel="self"></link><id>http://amarjen.github.io/</id><updated>2014-07-29T21:23:00+02:00</updated><entry><title>El gobierno corporativo en la práctica</title><link href="http://amarjen.github.io/gobierno-corporativo-practica.html" rel="alternate"></link><updated>2014-07-29T21:23:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-29:gobierno-corporativo-practica.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+&lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 14, epígrafe V&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="la-propiedad"&gt;
+&lt;h2&gt;La propiedad&lt;/h2&gt;
+&lt;p&gt;La estructura de la propiedad de una empresa se define a
+través de su distribución accionarial, de su grado de
+concentración y del tipo de representación que los accionistas
+tienen a su alcance.&lt;/p&gt;
+&lt;div class="section" id="distribucion-accionarial"&gt;
+&lt;h3&gt;Distribución accionarial&lt;/h3&gt;
+&lt;p&gt;La distribución se refiere a la tipología de propietarios de
+la empresa. Las tipologías más relevantes son:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Accionistas individuales / colectivos (institucionales)&lt;/li&gt;
+&lt;li&gt;Accionistas mayoritarios / minoritarios&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El tipo concreto de accionista determina los intereses del
+mismo, y por tanto, en el caso de que tenga poder, determinan
+el tupo de gestión que llevará a cabo en su empresas, y si no
+tiene poder, determina los posibles conflictos de intereses.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="grado-de-concentracion"&gt;
+&lt;h3&gt;Grado de concentración&lt;/h3&gt;
+&lt;p&gt;En principio, la dispersión limita la capacidad de los
+accionistas para ejercer sus derechos, fundamentalmente debido
+a:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Los directivos están interesados en incrementar el número de
+accionistas porque se reduce el poder individual de los
+mismos, y por tanto da mayor libertad a la dirección&lt;/li&gt;
+&lt;li&gt;El aumento de los accionistas reduce el incentivo y la
+capacidad de cada accionistas de controlar eficientemente la
+gestión de su empresa.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Por el contrario, la concentración supone el control por
+núcleos estables involucrados. No obstante, este mecanismo
+falla porque la presencia de grupos dominantes es a menudo
+el resultado de objetivos a corto plazo más que de estrategias
+de generación de valor a largo plazo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tipo-de-representacion"&gt;
+&lt;h3&gt;Tipo de representación&lt;/h3&gt;
+&lt;p&gt;El consentimiento que el accionistas otorga a los directivos
+es reflejo del acceso al poder que tiene éstos. Este
+consentimiento se vuelve explícito en la Junta General de
+Accionistas. Este consentimiento puede ser:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Nominal&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;El accionista no vota, en su lugar lo hace, bien los
+directivos, bien un intermediario financiero.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Contaminado&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;Cuando el intermediario financiero representante del
+accionista vota a favor de algo cuando debería
+oponerse.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Coactivo&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;Cuando la dirección vincula una decisión atractiva
+para el accionista a un acontecimiento contrario a los
+intereses del mismo.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Pobre&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;Cuando la dirección limita conscientemente las
+alternativas de elección al alcance del accionista.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="el-consejo-de-administracion"&gt;
+&lt;h2&gt;El consejo de administración&lt;/h2&gt;
+&lt;p&gt;Es importante el estudio de la variables relevantes del
+consejo de administración, sus funciones y de la estructura
+que adopta.&lt;/p&gt;
+&lt;div class="section" id="variables-relevantes"&gt;
+&lt;h3&gt;Variables relevantes&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;El tamaño del consejo&lt;/li&gt;
+&lt;li&gt;El hecho de que el presidente del consejo sea o no ejecutivo&lt;/li&gt;
+&lt;li&gt;La independencia de los miembros del consejo&lt;/li&gt;
+&lt;li&gt;La elección, el nombramiento y la remuneración de los consejeros.&lt;/li&gt;
+&lt;li&gt;La existencia o no de determinadas comisiones especializadas dentro del consejo&lt;/li&gt;
+&lt;li&gt;Todas las variables relativas al comportamiento individual de cada miembro del consejo, desde una perspectiva psicológica conductista.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El valor que se dé a cada una de estas variables determinará la eficiencia con la que los consejeros llevarán a cabo sus funciones de cara a respetar los objetivos de la empresa y de resolver los conflictos de intereses.&lt;/p&gt;
+&lt;img alt="Tipoogia de consejeros" class="align-center" src="images/14-tipologia-de-consejeros.png" /&gt;
+&lt;/div&gt;
+&lt;div class="section" id="funciones-del-consejo"&gt;
+&lt;h3&gt;Funciones del consejo&lt;/h3&gt;
+&lt;p&gt;Las funciones principales del consejo de administración, agrupadas en sus tres roles esenciales:&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Funciones de estrategia&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Aprobar y revisar la filosofía y la estrategia de la empresa&lt;/li&gt;
+&lt;li&gt;Aprobar y revisar la asignación de capital en la empresa&lt;/li&gt;
+&lt;li&gt;Aprobar y revisar los objetivos corporativos a largo plazo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Funciones de control&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Aprobar el desempeño del consejo de administración&lt;/li&gt;
+&lt;li&gt;Seleccionar, evaluar, fijar la remuneración y sustituir a los altos directivos de la empresa&lt;/li&gt;
+&lt;li&gt;Revisar los resultados y compararlos con los objetivos, la filosofía, la estrategia y con la competencia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Funciones de servicio&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Asesorar y aconsejar&lt;/li&gt;
+&lt;li&gt;Tutelar y colaborar en las tareas de dirección estratégica&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
+&lt;div class="section" id="estructura-del-consejo"&gt;
+&lt;h3&gt;Estructura del consejo&lt;/h3&gt;
+&lt;p&gt;La estructura básica de los consejos está ligada a la cultura empresarial de cada país, y está apoyada y definida por la legislación de cada país.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;El consejo de administración dual&lt;/dt&gt;
+&lt;dd&gt;Coexisten dos consejos, el ejecutivo y el de supervisión. El país que mejor lo representa es Alemania.&lt;/dd&gt;
+&lt;dt&gt;El consejo de administración único&lt;/dt&gt;
+&lt;dd&gt;Prevalece en EEUU, Japón y muchos países europeos, entre ellos España.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;El &lt;a class="reference external" href="cuadro-mando-integral-mapa-estrategico.html"&gt;cuadro de mando integral&lt;/a&gt; puede ser una buena herramienta de
+medición para controlar que los directivos cumplan con sus
+obligaciones.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="referencias"&gt;
+&lt;h2&gt;Referencias&lt;/h2&gt;
+&lt;table class="docutils citation" frame="void" id="bil2013" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[BIL2013]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Paloma Bilbao, &lt;em&gt;et al&lt;/em&gt; (2013), &lt;em&gt;Política de Empresa y Estrategia&lt;/em&gt;, 3ªEd.,
+Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</summary><category term="estrategia"></category></entry><entry><title>El cuadro de mando integral y el mapa estratégico</title><link href="http://amarjen.github.io/cuadro-mando-integral-mapa-estrategico.html" rel="alternate"></link><updated>2014-07-28T23:46:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-28:cuadro-mando-integral-mapa-estrategico.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 2, epígrafe III&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="cuadro-de-mando-integral"&gt;
@@ -913,23 +1063,14 @@ La visión del empresa basada en el conocimiento, 3ªEd 2013, Editorial Universi
 </summary><category term="estrategia"></category><category term="conocimiento"></category></entry><entry><title>Eliminación de resultados por operaciones internas</title><link href="http://amarjen.github.io/eliminacion-resultados.html" rel="alternate"></link><updated>2014-07-24T15:56:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-20:eliminacion-resultados.html</id><summary type="html">&lt;div class="section" id="activo-financiero-al-coste-amortizado"&gt;
 &lt;h2&gt;Activo financiero al coste amortizado&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;2004&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="math"&gt;
-\begin{equation*}
-\begin{array} {|l|l|c|l|r|}
-\hline
-175 &amp;amp; \text{Resultado del ejercicio} &amp;amp; \text{a} &amp;amp; \text{Valores representativos a lp} &amp;amp; 175 \\
-\hline
-\end{array}
-\end{equation*}
-&lt;/div&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="apunte docutils"&gt;
 &lt;caption&gt;Para preparar el balance consolidado&lt;/caption&gt;
 &lt;colgroup&gt;
-&lt;col width="7%" /&gt;
-&lt;col width="42%" /&gt;
+&lt;col width="12%" /&gt;
+&lt;col width="37%" /&gt;
 &lt;col width="1%" /&gt;
-&lt;col width="42%" /&gt;
-&lt;col width="7%" /&gt;
+&lt;col width="37%" /&gt;
+&lt;col width="12%" /&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td&gt;175&lt;/td&gt;
@@ -941,14 +1082,14 @@ La visión del empresa basada en el conocimiento, 3ªEd 2013, Editorial Universi
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils" /&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="apunte docutils"&gt;
 &lt;caption&gt;Para preparar la cta. PyG consolidada:&lt;/caption&gt;
 &lt;colgroup&gt;
-&lt;col width="7%" /&gt;
-&lt;col width="42%" /&gt;
+&lt;col width="12%" /&gt;
+&lt;col width="37%" /&gt;
 &lt;col width="1%" /&gt;
-&lt;col width="42%" /&gt;
-&lt;col width="7%" /&gt;
+&lt;col width="37%" /&gt;
+&lt;col width="12%" /&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td&gt;175&lt;/td&gt;
@@ -961,14 +1102,14 @@ La visión del empresa basada en el conocimiento, 3ªEd 2013, Editorial Universi
 &lt;/table&gt;
 &lt;hr class="docutils" /&gt;
 &lt;p&gt;&lt;strong&gt;2005&lt;/strong&gt;&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="apunte docutils"&gt;
 &lt;caption&gt;Para preparar el balance consolidado:&lt;/caption&gt;
 &lt;colgroup&gt;
-&lt;col width="7%" /&gt;
-&lt;col width="42%" /&gt;
+&lt;col width="12%" /&gt;
+&lt;col width="37%" /&gt;
 &lt;col width="1%" /&gt;
-&lt;col width="42%" /&gt;
-&lt;col width="7%" /&gt;
+&lt;col width="37%" /&gt;
+&lt;col width="12%" /&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td&gt;175&lt;/td&gt;
@@ -986,55 +1127,26 @@ La visión del empresa basada en el conocimiento, 3ªEd 2013, Editorial Universi
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr class="docutils" /&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="apunte docutils"&gt;
 &lt;caption&gt;Para preparar la cta. de PYG:&lt;/caption&gt;
 &lt;colgroup&gt;
-&lt;col width="7%" /&gt;
-&lt;col width="42%" /&gt;
+&lt;col width="12%" /&gt;
+&lt;col width="37%" /&gt;
 &lt;col width="1%" /&gt;
-&lt;col width="42%" /&gt;
-&lt;col width="7%" /&gt;
+&lt;col width="37%" /&gt;
+&lt;col width="12%" /&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td&gt;84&lt;/td&gt;
 &lt;td&gt;Saldo de Perdidas y Ganancias&lt;/td&gt;
 &lt;td&gt;a&lt;/td&gt;
-&lt;td&gt;Ingresos de valores representativos de deuda&lt;/td&gt;
+&lt;td&gt;Ingresos de valores
+representativos de deuda&lt;/td&gt;
 &lt;td&gt;84&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;script type= "text/javascript"&gt;
-    if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-        var mathjaxscript = document.createElement('script');
-        mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-        mathjaxscript.type = 'text/javascript';
-        mathjaxscript.src = 'https:' == document.location.protocol
-                ? 'https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
-                : 'http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
-        mathjaxscript[(window.opera ? "innerHTML" : "text")] =
-            "MathJax.Hub.Config({" +
-            "    config: ['MMLorHTML.js']," +
-            "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
-            "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-            "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-            "    displayAlign: 'center'," +
-            "    displayIndent: '0em'," +
-            "    showMathMenu: true," +
-            "    tex2jax: { " +
-            "        inlineMath: [ ['$','$'] ], " +
-            "        displayMath: [ ['$$','$$'] ]," +
-            "        processEscapes: true," +
-            "        preview: 'TeX'," +
-            "    }, " +
-            "    'HTML-CSS': { " +
-            "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'black ! important'} }" +
-            "    } " +
-            "}); ";
-        (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-    }
-&lt;/script&gt;
 </summary><category term="contabilidad"></category><category term="consolidación"></category></entry><entry><title>Estrategias corporativas de crecimiento: Internacionalización y Diversificación</title><link href="http://amarjen.github.io/estrategias-corportativas-crecimiento.html" rel="alternate"></link><updated>2014-07-20T20:00:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-20:estrategias-corportativas-crecimiento.html</id><summary type="html">&lt;div class="section" id="introduccion"&gt;
 &lt;h2&gt;Introducción&lt;/h2&gt;
 &lt;p&gt;Clasificación de estrategias básicas: (Ansoff, 1977)&lt;/p&gt;
