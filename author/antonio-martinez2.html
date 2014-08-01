@@ -32,7 +32,7 @@
 <script type="text/javascript"
 src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
 </script>
-    <title>matplotlib - Antonio Martínez</title>
+    <title>Articles by Antonio Martínez - Antonio Martínez</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -105,73 +105,57 @@ Antonio Martínez            </a>
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
-    <ol class="breadcrumb">
-        <li><a href="http://amarjen.github.io" title="Antonio Martínez"><i class="fa fa-home fa-lg"></i></a></li>
-        <li><a href="http://amarjen.github.io/" title="Tags">Tags</a></li>
-        <li class="active">matplotlib</li>
-    </ol>
+        <ol class="breadcrumb">
+            <li><a href="http://amarjen.github.io" title="Antonio Martínez"><i class="fa fa-home fa-lg"></i></a></li>
+            <li><a href="http://amarjen.github.io/authors.html" title="Authors">Authors</a></li>
+            <li class="active">Antonio Martínez</li>
+        </ol>
 
             <article>
-                <h2><a href="http://amarjen.github.io/calcular-beta-python.html">Calcular la beta de una acción con python</a></h2>
+                <h2><a href="http://amarjen.github.io/eliminacion-resultados.html">Eliminación de resultados por operaciones internas</a></h2>
 
-		<img src="http://amarjen.github.io/images/trading/beta.png" width="175" style="padding:5px; float:left;">
  
-                <div class="summary"><p>Según el modelo
-<a class="reference external" href="http://es.wikipedia.org/wiki/Modelo_de_valoraci%C3%B3n_de_activos_financieros">CAPM</a>,
-la beta representa el riesgo sistémico de un activo, es decir, aquel que
-no puede reducirse diversificando. Mide la sensibilidad de la
-rentabilidad de un activo con la rentabilidad del mercado. Por ejemplo,
-si una acción tuviera una beta de 2, significaria que la rentabilidad de ...</p>
-                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/calcular-beta-python.html">more ...</a>
+                <div class="summary"><p class="first last">Short version for index and feeds</p>
+
+                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/eliminacion-resultados.html">more ...</a>
                 </div>
             </article>
             <hr/>
             <article>
-                <h2><a href="http://amarjen.github.io/dibujar-frontera-eficiente.html">Dibujar la frontera eficiente de dos activos</a></h2>
+                <h2><a href="http://amarjen.github.io/estrategias-corportativas-crecimiento.html">Estrategias corporativas de crecimiento: Internacionalización y Diversificación</a></h2>
 
-		<img src="http://amarjen.github.io/images/trading/balamarkowitz.png" width="175" style="padding:5px; float:left;">
  
-                <div class="summary"><p>Si tenemos una inversión repartida entre varios activos, es decir,
-diversificada, nos gustaría saber cuál es la asignación óptima de cada
-activo de forma que maximicemos la rentabilidad sin aumentar el riesgo.
-Sobre esta cuestión trata buena parte de la literatura financiera desde
-que en 1952 Markowitz publicó su famoso ...</p>
-                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/dibujar-frontera-eficiente.html">more ...</a>
+                <div class="summary"><p class="first last">Short version for index and feeds</p>
+
+                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/estrategias-corportativas-crecimiento.html">more ...</a>
                 </div>
             </article>
             <hr/>
             <article>
-                <h2><a href="http://amarjen.github.io/calcular-el-drawdown-con-python.html">Calcular el Drawdown con Python</a></h2>
+                <h2><a href="http://amarjen.github.io/crear-booklets-linux.html">Crear booklets de PDF en linux</a></h2>
 
-		<img src="http://amarjen.github.io/images/trading/drawdown1.png" width="175" style="padding:5px; float:left;">
  
-                <div class="summary"><p>El <em>drawdown</em> es una medida estadística que refleja los descensos
-relativos del valor de una inversión posteriores a los máximos que ésta
-alcanza. Ayuda a evaluar el riesgo de una inversión, cartera de valores,
-estrategia de trading, etc...</p>
-<p>Es esta <a class="reference external" href="http://comisef.wikidot.com/tutorial:drawdowns">página</a> se
-ofrece la definición matemática del drawdown ilustrándola en ...</p>
-                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/calcular-el-drawdown-con-python.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://amarjen.github.io/visualizar-series-financieras-en-python.html">Visualizar series financieras en python</a></h2>
-
-		<img src="http://amarjen.github.io/images/trading/c3adndice1.png" width="175" style="padding:5px; float:left;">
- 
-                <div class="summary"><p>Una pequeña muestra de como en tan sólo cinco líneas de código podemos
-obtener un gráfico de una serie temporal financiera, en este caso del
-índice Ibex-35 desde el año 2000.</p>
-<p>Esta receta utiliza el método DataReader de la librería
-<a class="reference external" href="http://pandas.pydata.org/">pandas</a> para descargar datos financieros
-desde <a class="reference external" href="http://finance.yahoo.com">Yahoo Finance</a></p>
-<div class="highlight"><pre><span class="kn">import</span> <span class="nn">datetime ...</span></pre></div>
-                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/visualizar-series-financieras-en-python.html">more ...</a>
+                <div class="summary"><p><strong>Problema:</strong> Tenemos un archivo PDF y nos gustaría tenerlo impreso en formato
+booklet para facilitar la lectura, ahorrar papel, etc</p>
+<p><strong>Solución:</strong></p>
+<div class="highlight"><pre>pdf2ps input.pdf -| psbook | psnup -Pa4 -pa4 -2 -d | ps2pdf - output.pdf
+</pre></div>
+<p>Del comando anterior solo tenemos que modificar input.pdf por el archivo PDF que
+queremos procesar y ...</p>
+                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/crear-booklets-linux.html">more ...</a>
                 </div>
             </article>
             <hr/>
 
+        <ul class="pagination">
+                <li class="prev"><a href="http://amarjen.github.io/author/antonio-martinez.html">&laquo;</a>
+                </li>
+                    <li class=""><a
+                            href="http://amarjen.github.io/author/antonio-martinez.html">1</a></li>
+                    <li class="active"><a
+                            href="http://amarjen.github.io/author/antonio-martinez2.html">2</a></li>
+                <li class="next disabled"><a href="#">&raquo;</a></li>
+        </ul>
         </div>
         <div class="col-sm-3 well well-sm" id="sidebar">
 
@@ -306,7 +290,7 @@ desde <a class="reference external" href="http://finance.yahoo.com">Yahoo Financ
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2012 Antonio Martínez
+         <div class="col-xs-10">&copy; 2014 Antonio Martínez
             &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nd/4.0/80x15.png" /></a>

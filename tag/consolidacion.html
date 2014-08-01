@@ -3,6 +3,35 @@
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
+<!-- Using MathJax, with the delimiters $ -->
+<!-- Conflict with pygments for the .mo and .mi -->
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+    "HTML-CSS": {
+    styles: {
+    ".MathJax .mo, .MathJax .mi": {color: "black ! important"}}
+    },
+    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']],processEscapes: true}
+    });
+    MathJax.Hub.Register.StartupHook("HTML-CSS Jax Ready",function () {
+    var VARIANT = MathJax.OutputJax["HTML-CSS"].FONTDATA.VARIANT;
+    VARIANT["normal"].fonts.unshift("MathJax_Serif");
+    VARIANT["bold"].fonts.unshift("MathJax_Serif-bold");
+    VARIANT["italic"].fonts.unshift("MathJax_Serif-italic");
+    VARIANT["-tex-mathit"].fonts.unshift("MathJax_Serif-italic");
+    });
+    MathJax.Hub.Register.StartupHook("SVG Jax Ready",function () {
+    var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;
+    VARIANT["normal"].fonts.unshift("MathJax_Serif");
+    VARIANT["bold"].fonts.unshift("MathJax_Serif-bold");
+    VARIANT["italic"].fonts.unshift("MathJax_Serif-italic");
+    VARIANT["-tex-mathit"].fonts.unshift("MathJax_Serif-italic");
+    });
+</script>
+
+<script type="text/javascript"
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
+</script>
     <title>consolidación - Antonio Martínez</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,6 +75,9 @@ Antonio Martínez            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
+                        <li class="active">
+                            <a href="http://amarjen.github.io/category/.html"></a>
+                        </li>
                         <li >
                             <a href="http://amarjen.github.io/category/contabilidad.html">Contabilidad</a>
                         </li>
@@ -108,6 +140,11 @@ Antonio Martínez            </a>
                 <li class="list-group-item"><a href="http://amarjen.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                     <ul class="list-group list-inline tagcloud" id="tags">
                         <li class="list-group-item tag-4">
+                            <a href="http://amarjen.github.io/tag/.html">
+                                
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
                             <a href="http://amarjen.github.io/tag/beta.html">
                                 beta
                             </a>
@@ -122,7 +159,7 @@ Antonio Martínez            </a>
                                 consolidación
                             </a>
                         </li>
-                        <li class="list-group-item tag-2">
+                        <li class="list-group-item tag-3">
                             <a href="http://amarjen.github.io/tag/contabilidad.html">
                                 contabilidad
                             </a>
@@ -162,12 +199,12 @@ Antonio Martínez            </a>
                                 linux
                             </a>
                         </li>
-                        <li class="list-group-item tag-1">
+                        <li class="list-group-item tag-2">
                             <a href="http://amarjen.github.io/tag/matplotlib.html">
                                 matplotlib
                             </a>
                         </li>
-                        <li class="list-group-item tag-2">
+                        <li class="list-group-item tag-3">
                             <a href="http://amarjen.github.io/tag/pandas.html">
                                 pandas
                             </a>

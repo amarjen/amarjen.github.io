@@ -3,6 +3,35 @@
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
+<!-- Using MathJax, with the delimiters $ -->
+<!-- Conflict with pygments for the .mo and .mi -->
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+    "HTML-CSS": {
+    styles: {
+    ".MathJax .mo, .MathJax .mi": {color: "black ! important"}}
+    },
+    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']],processEscapes: true}
+    });
+    MathJax.Hub.Register.StartupHook("HTML-CSS Jax Ready",function () {
+    var VARIANT = MathJax.OutputJax["HTML-CSS"].FONTDATA.VARIANT;
+    VARIANT["normal"].fonts.unshift("MathJax_Serif");
+    VARIANT["bold"].fonts.unshift("MathJax_Serif-bold");
+    VARIANT["italic"].fonts.unshift("MathJax_Serif-italic");
+    VARIANT["-tex-mathit"].fonts.unshift("MathJax_Serif-italic");
+    });
+    MathJax.Hub.Register.StartupHook("SVG Jax Ready",function () {
+    var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;
+    VARIANT["normal"].fonts.unshift("MathJax_Serif");
+    VARIANT["bold"].fonts.unshift("MathJax_Serif-bold");
+    VARIANT["italic"].fonts.unshift("MathJax_Serif-italic");
+    VARIANT["-tex-mathit"].fonts.unshift("MathJax_Serif-italic");
+    });
+</script>
+
+<script type="text/javascript"
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
+</script>
     <title>Antonio Martínez</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,6 +75,9 @@ Antonio Martínez            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
+                        <li class="active">
+                            <a href="http://amarjen.github.io/category/.html"></a>
+                        </li>
                         <li >
                             <a href="http://amarjen.github.io/category/contabilidad.html">Contabilidad</a>
                         </li>
@@ -75,6 +107,44 @@ Antonio Martínez            </a>
         <div class="col-sm-9">
 
             <article>
+                <h2><a href="http://amarjen.github.io/teoria-recursos-capacidades.html">Fundamentos de la teoría de los recursos y capacidades</a></h2>
+
+		<img src="http://amarjen.github.io/images/01-recursos-capacidades-estrategia.png" width="175" style="padding:5px; float:left;">
+ 
+                <div class="summary">
+<p>La aparición de la teoría de los recursos y capacidades tiene su origen en las carencias y problemas del enfoque de la organización industrial, cuyo principal exponente es el modelo de las cinco fuerzas competitivas de Michael Porter.</p>
+
+                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/teoria-recursos-capacidades.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="http://amarjen.github.io/capacidad-negociadora.html">La capacidad negociadora</a></h2>
+
+ 
+                <div class="summary"><p class="first last">Al igual que la empresa desarrolla otra serie de capacidades, debe
+estar diseminada una capacidad negociadora, para no depender de sólo
+una persona más o menos hábil.</p>
+
+                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/capacidad-negociadora.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="http://amarjen.github.io/esencia-negociacion.html">La esencia de la negociación</a></h2>
+
+		<img src="http://amarjen.github.io/images/11-diagnostico-situacion-negociacion.png" width="175" style="padding:5px; float:left;">
+ 
+                <div class="summary">
+<p>La negociación puede definirse como una discusión entre dos o más partes a fin
+de resolver objetivos incompatibles o divergentes. Estas partes pueden ser
+individuos, grupos, organizaciones o unidades políticas.</p>
+
+                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/esencia-negociacion.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="http://amarjen.github.io/gobierno-corporativo-practica.html">El gobierno corporativo en la práctica</a></h2>
 
 		<img src="http://amarjen.github.io/images/14-tipologia-de-consejeros.png" width="175" style="padding:5px; float:left;">
@@ -103,6 +173,16 @@ bloques, cuyo objetivo es medir los resultados de la organización.</p>
             </article>
             <hr/>
             <article>
+                <h2><a href="http://amarjen.github.io/prueba.html">Prueba</a></h2>
+
+ 
+                <div class="summary"><p class="first last">Prueba</p>
+
+                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/prueba.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="http://amarjen.github.io/estrategia-sectores-maduros.html">La estrategia en sectores maduros</a></h2>
 
 		<img src="http://amarjen.github.io/images/04-modelos-organizativos.png" width="175" style="padding:5px; float:left;">
@@ -121,36 +201,6 @@ cambios en el ambiente competitivo:</p>
 		<img src="http://amarjen.github.io/images/cadena-valor.png" width="175" style="padding:5px; float:left;">
  
                 <div class="summary"><p class="first last">Internet incide en los tres terminos de la ecuación: $B=I-C$</p>
-<script type= "text/javascript">
-    if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-        var mathjaxscript = document.createElement('script');
-        mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-        mathjaxscript.type = 'text/javascript';
-        mathjaxscript.src = 'https:' == document.location.protocol
-                ? 'https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
-                : 'http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
-        mathjaxscript[(window.opera ? "innerHTML" : "text")] =
-            "MathJax.Hub.Config({" +
-            "    config: ['MMLorHTML.js']," +
-            "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
-            "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-            "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-            "    displayAlign: 'center'," +
-            "    displayIndent: '0em'," +
-            "    showMathMenu: true," +
-            "    tex2jax: { " +
-            "        inlineMath: [ ['$','$'] ], " +
-            "        displayMath: [ ['$$','$$'] ]," +
-            "        processEscapes: true," +
-            "        preview: 'TeX'," +
-            "    }, " +
-            "    'HTML-CSS': { " +
-            "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'black ! important'} }" +
-            "    } " +
-            "}); ";
-        (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-    }
-</script>
 
                     <a class="btn btn-default btn-xs" href="http://amarjen.github.io/estrategia-internet.html">more ...</a>
                 </div>
@@ -174,51 +224,6 @@ cambios en el ambiente competitivo:</p>
                 <div class="summary"><p class="first last">El conocimiento es un recurso intangible con un potencial para la construcción de una ventaja competitiva sostenible.</p>
 
                     <a class="btn btn-default btn-xs" href="http://amarjen.github.io/dimesion-estrategica-conocimiento.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://amarjen.github.io/eliminacion-resultados.html">Eliminación de resultados por operaciones internas</a></h2>
-
- 
-                <div class="summary"><p class="first last">Short version for index and feeds</p>
-
-                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/eliminacion-resultados.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://amarjen.github.io/estrategias-corportativas-crecimiento.html">Estrategias corporativas de crecimiento: Internacionalización y Diversificación</a></h2>
-
- 
-                <div class="summary"><p class="first last">Short version for index and feeds</p>
-
-                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/estrategias-corportativas-crecimiento.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://amarjen.github.io/crear-booklets-linux.html">Crear booklets de PDF en linux</a></h2>
-
- 
-                <div class="summary"><p><strong>Problema:</strong> Tenemos un archivo PDF y nos gustaría tenerlo impreso en formato
-booklet para facilitar la lectura, ahorrar papel, etc</p>
-<p><strong>Solución:</strong></p>
-<div class="highlight"><pre>pdf2ps input.pdf -| psbook | psnup -Pa4 -pa4 -2 -d | ps2pdf - output.pdf
-</pre></div>
-<p>Del comando anterior solo tenemos que modificar input.pdf por el archivo PDF que
-queremos procesar y ...</p>
-                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/crear-booklets-linux.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://amarjen.github.io/cambiar-terminal-gnome.html">Como cambiar la Terminal por defecto de gnome</a></h2>
-
- 
-                <div class="summary"><p>Resulta que hace unos días decidí probar el terminal Guake y cada vez que lo uso me gusta más, sin embargo, siempre que pulsaba <code>Ctrl + Alt + T</code>, se abría la antigua terminal que gnome trae de serie.</p>
-<p>Para cambiar la configuración de gnome abrir una terminal y ejecutar el siguiente ...</p>
-                    <a class="btn btn-default btn-xs" href="http://amarjen.github.io/cambiar-terminal-gnome.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -250,6 +255,11 @@ queremos procesar y ...</p>
                 <li class="list-group-item"><a href="http://amarjen.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                     <ul class="list-group list-inline tagcloud" id="tags">
                         <li class="list-group-item tag-4">
+                            <a href="http://amarjen.github.io/tag/.html">
+                                
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
                             <a href="http://amarjen.github.io/tag/beta.html">
                                 beta
                             </a>
@@ -264,7 +274,7 @@ queremos procesar y ...</p>
                                 consolidación
                             </a>
                         </li>
-                        <li class="list-group-item tag-2">
+                        <li class="list-group-item tag-3">
                             <a href="http://amarjen.github.io/tag/contabilidad.html">
                                 contabilidad
                             </a>
@@ -304,12 +314,12 @@ queremos procesar y ...</p>
                                 linux
                             </a>
                         </li>
-                        <li class="list-group-item tag-1">
+                        <li class="list-group-item tag-2">
                             <a href="http://amarjen.github.io/tag/matplotlib.html">
                                 matplotlib
                             </a>
                         </li>
-                        <li class="list-group-item tag-2">
+                        <li class="list-group-item tag-3">
                             <a href="http://amarjen.github.io/tag/pandas.html">
                                 pandas
                             </a>

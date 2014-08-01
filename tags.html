@@ -3,6 +3,35 @@
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
+<!-- Using MathJax, with the delimiters $ -->
+<!-- Conflict with pygments for the .mo and .mi -->
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+    "HTML-CSS": {
+    styles: {
+    ".MathJax .mo, .MathJax .mi": {color: "black ! important"}}
+    },
+    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']],processEscapes: true}
+    });
+    MathJax.Hub.Register.StartupHook("HTML-CSS Jax Ready",function () {
+    var VARIANT = MathJax.OutputJax["HTML-CSS"].FONTDATA.VARIANT;
+    VARIANT["normal"].fonts.unshift("MathJax_Serif");
+    VARIANT["bold"].fonts.unshift("MathJax_Serif-bold");
+    VARIANT["italic"].fonts.unshift("MathJax_Serif-italic");
+    VARIANT["-tex-mathit"].fonts.unshift("MathJax_Serif-italic");
+    });
+    MathJax.Hub.Register.StartupHook("SVG Jax Ready",function () {
+    var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;
+    VARIANT["normal"].fonts.unshift("MathJax_Serif");
+    VARIANT["bold"].fonts.unshift("MathJax_Serif-bold");
+    VARIANT["italic"].fonts.unshift("MathJax_Serif-italic");
+    VARIANT["-tex-mathit"].fonts.unshift("MathJax_Serif-italic");
+    });
+</script>
+
+<script type="text/javascript"
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
+</script>
     <title>Tags - Antonio Martínez</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,6 +75,9 @@ Antonio Martínez            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
+                        <li class="active">
+                            <a href="http://amarjen.github.io/category/.html"></a>
+                        </li>
                         <li >
                             <a href="http://amarjen.github.io/category/contabilidad.html">Contabilidad</a>
                         </li>
@@ -81,6 +113,18 @@ Antonio Martínez            </a>
     <section id="tags">
         <h1>Tags for Antonio Martínez</h1>
         <div class="panel-group" id="accordion">            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-"> <span class="badge pull-right">1</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2014-07-28T19:58:00">lun 28 julio 2014</time></span> <a href="http://amarjen.github.io/prueba.html">Prueba</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapse-beta">beta <span class="badge pull-right">1</span></a>
@@ -156,18 +200,21 @@ Antonio Martínez            </a>
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-estrategia">estrategia <span class="badge pull-right">7</span></a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-estrategia">estrategia <span class="badge pull-right">10</span></a>
                     </h4>
                 </div>
                 <div id="collapse-estrategia" class="panel-collapse collapse">
                     <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2014-07-31T13:36:00">jue 31 julio 2014</time></span> <a href="http://amarjen.github.io/capacidad-negociadora.html">La capacidad negociadora</a></p>
                         <p><span class="categories-timestamp"><time datetime="2014-07-28T23:46:00">lun 28 julio 2014</time></span> <a href="http://amarjen.github.io/cuadro-mando-integral-mapa-estrategico.html">El cuadro de mando integral y el mapa estratégico</a></p>
                         <p><span class="categories-timestamp"><time datetime="2014-07-24T12:36:00">jue 24 julio 2014</time></span> <a href="http://amarjen.github.io/dimesion-estrategica-conocimiento.html">Dimensión estratégica del conocimiento</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-07-30T21:13:00">mié 30 julio 2014</time></span> <a href="http://amarjen.github.io/esencia-negociacion.html">La esencia de la negociación</a></p>
                         <p><span class="categories-timestamp"><time datetime="2014-07-26T00:00:00">sáb 26 julio 2014</time></span> <a href="http://amarjen.github.io/estrategia-internet.html">Estrategia e Internet</a></p>
                         <p><span class="categories-timestamp"><time datetime="2014-07-27T17:21:00">dom 27 julio 2014</time></span> <a href="http://amarjen.github.io/estrategia-sectores-maduros.html">La estrategia en sectores maduros</a></p>
                         <p><span class="categories-timestamp"><time datetime="2014-07-20T20:00:00">dom 20 julio 2014</time></span> <a href="http://amarjen.github.io/estrategias-corportativas-crecimiento.html">Estrategias corporativas de crecimiento: Internacionalización y Diversificación</a></p>
                         <p><span class="categories-timestamp"><time datetime="2014-07-25T11:26:00">vie 25 julio 2014</time></span> <a href="http://amarjen.github.io/fundamentos-teoricos-gobierno-corporativo.html">Fundamentos teóricos del gobierno corporativo</a></p>
                         <p><span class="categories-timestamp"><time datetime="2014-07-29T21:23:00">mar 29 julio 2014</time></span> <a href="http://amarjen.github.io/gobierno-corporativo-practica.html">El gobierno corporativo en la práctica</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-08-01T12:33:00">vie 01 agosto 2014</time></span> <a href="http://amarjen.github.io/teoria-recursos-capacidades.html">Fundamentos de la teoría de los recursos y capacidades</a></p>
                     </div>
                 </div>
             </div>
@@ -318,6 +365,11 @@ Antonio Martínez            </a>
                 <li class="list-group-item"><a href="http://amarjen.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                     <ul class="list-group list-inline tagcloud" id="tags">
                         <li class="list-group-item tag-4">
+                            <a href="http://amarjen.github.io/tag/.html">
+                                
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
                             <a href="http://amarjen.github.io/tag/beta.html">
                                 beta
                             </a>
@@ -332,7 +384,7 @@ Antonio Martínez            </a>
                                 consolidación
                             </a>
                         </li>
-                        <li class="list-group-item tag-2">
+                        <li class="list-group-item tag-3">
                             <a href="http://amarjen.github.io/tag/contabilidad.html">
                                 contabilidad
                             </a>
@@ -372,12 +424,12 @@ Antonio Martínez            </a>
                                 linux
                             </a>
                         </li>
-                        <li class="list-group-item tag-1">
+                        <li class="list-group-item tag-2">
                             <a href="http://amarjen.github.io/tag/matplotlib.html">
                                 matplotlib
                             </a>
                         </li>
-                        <li class="list-group-item tag-2">
+                        <li class="list-group-item tag-3">
                             <a href="http://amarjen.github.io/tag/pandas.html">
                                 pandas
                             </a>

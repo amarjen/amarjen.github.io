@@ -3,6 +3,35 @@
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
+<!-- Using MathJax, with the delimiters $ -->
+<!-- Conflict with pygments for the .mo and .mi -->
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+    "HTML-CSS": {
+    styles: {
+    ".MathJax .mo, .MathJax .mi": {color: "black ! important"}}
+    },
+    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']],processEscapes: true}
+    });
+    MathJax.Hub.Register.StartupHook("HTML-CSS Jax Ready",function () {
+    var VARIANT = MathJax.OutputJax["HTML-CSS"].FONTDATA.VARIANT;
+    VARIANT["normal"].fonts.unshift("MathJax_Serif");
+    VARIANT["bold"].fonts.unshift("MathJax_Serif-bold");
+    VARIANT["italic"].fonts.unshift("MathJax_Serif-italic");
+    VARIANT["-tex-mathit"].fonts.unshift("MathJax_Serif-italic");
+    });
+    MathJax.Hub.Register.StartupHook("SVG Jax Ready",function () {
+    var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;
+    VARIANT["normal"].fonts.unshift("MathJax_Serif");
+    VARIANT["bold"].fonts.unshift("MathJax_Serif-bold");
+    VARIANT["italic"].fonts.unshift("MathJax_Serif-italic");
+    VARIANT["-tex-mathit"].fonts.unshift("MathJax_Serif-italic");
+    });
+</script>
+
+<script type="text/javascript"
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
+</script>
     <title>La esencia de la negociación - Antonio Martínez</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,7 +46,7 @@
             <meta property="og:type" content="article"/>
             <meta property="og:title" content="La esencia de la negociación"/>
             <meta property="og:url" content="http://amarjen.github.io/esencia-negociacion.html"/>
-            <meta property="og:description" content="La negociación puede definirse como una discusión entre dos mñás partes a fin de resolver objetivos inompatibles o divergentes. Estas partes pueden ser individuos, grupos, organizacinoes o unidades Este artículo es un resumen de [BIL2013] , capítulo 11, epígrafe II"/>
+            <meta property="og:description" content="La negociación puede definirse como una discusión entre dos o más partes a fin de resolver objetivos incompatibles o divergentes. Estas partes pueden ser individuos, grupos, organizaciones o unidades políticas."/>
             <meta property="article:published_time" content="2014-07-30" />
                 <meta property="article:section" content="estrategia" />
                 <meta property="article:tag" content="estrategia" />
@@ -50,6 +79,9 @@ Antonio Martínez            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
+                        <li >
+                            <a href="http://amarjen.github.io/category/.html"></a>
+                        </li>
                         <li >
                             <a href="http://amarjen.github.io/category/contabilidad.html">Contabilidad</a>
                         </li>
@@ -94,7 +126,10 @@ Antonio Martínez            </a>
                     </a>
                 </h1>
             </header>
-            <div class="entry-content">
+
+
+	    <div class="entry-content">
+
                 <div class="panel">
                     <div class="panel-body">
 <footer class="post-info">
@@ -109,14 +144,27 @@ Antonio Martínez            </a>
 	<a href="http://amarjen.github.io/tag/estrategia.html">estrategia</a>
     
 </footer><!-- /.post-info -->                    </div>
+		
                 </div>
-                <p>La negociación puede definirse como una discusión entre dos o más partes a fin
-de resover objetivos incompatibles o divergentes. Estas partes pueden ser
+
+		<div class="alert  alert-info compound">
+<p>Este artículo es un resumen de <a class="citation-reference" href="#bil2013" id="id1">[BIL2013]</a> , capítulo 11, epígrafe II</p>
+</div>
+
+<p>La negociación puede definirse como una discusión entre dos o más partes a fin
+de resolver objetivos incompatibles o divergentes. Estas partes pueden ser
 individuos, grupos, organizaciones o unidades políticas.</p>
+
 <div class="section" id="elementos-fundamentales">
 <h2>Elementos fundamentales</h2>
 <ul>
-<li><p class="first">Interdependencia</p>
+<li><dl class="first docutils">
+<dt>Interdependencia</dt>
+<dd><p class="first last">La dependencia entre el personal de una empresa es mutua. La
+interdependencia se extiende al exterior cuando existen posibles
+conflictos entre distintas organizaciones.</p>
+</dd>
+</dl>
 </li>
 <li><dl class="first docutils">
 <dt>Algún conflicto observado</dt>
@@ -126,14 +174,14 @@ individuos, grupos, organizaciones o unidades políticas.</p>
 </li>
 <li><dl class="first docutils">
 <dt>Interacción oportunista o estratégica</dt>
-<dd><p class="first last">Se refiere a la capacidad de cada cual de tomar parte en una inteacción
+<dd><p class="first last">Se refiere a la capacidad de cada cual de tomar parte en una interacción
 oportunista.</p>
 </dd>
 </dl>
 </li>
 <li><dl class="first docutils">
 <dt>La posibilidad de acuerdo</dt>
-<dd><p class="first last">Cuando concurren interdependencia, conflicto y potencail de
+<dd><p class="first last">Cuando concurren interdependencia, conflicto y potencial de
 oportunismo, las partes pueden negociar un acuerdo que sea mejor que
 sus alternativas individuales.</p>
 </dd>
@@ -143,20 +191,47 @@ sus alternativas individuales.</p>
 </div>
 <div class="section" id="analisis-de-la-negociacion">
 <h2>Análisis de la negociación</h2>
-<div class="system-message">
-<p class="system-message-title">System Message: WARNING/2 (<tt class="docutils">/home/tony/web/amarjen/content/estrategia/11_02-la-esencia-de-la-negociacion.rst</tt>, line 40)</p>
-<p>Title underline too short.</p>
-<pre class="literal-block">
-Análisis de la negociación
--------------------------
-</pre>
-</div>
-<p>La negociaciones empresariales son variopintas</p>
-<p>Pautas del análisis
-1. Diagnóstico de la situación
-2. Configurar la estructura
-3. Dirección del proceso
-4. Grado de cumplimiento de los objetivos</p>
+<p>La negociaciones empresariales son variopintas, por lo que las opciones estratégicas deben acomodarse a cada situación. Toda negociación requiere un análisis que tiene las siguientes pautas:</p>
+<ol class="arabic">
+<li><dl class="first docutils">
+<dt>Diagnóstico de la situación: El negociador como médico</dt>
+<dd><p class="first last">Analizar el contexto y la estructura de la negociación. El contexto
+define las reglas del juego y los recursos disponibles. Los elementos
+clave de la estructura son el número de participantes, la agenda a
+negociar, las alternativas, el tiempo disponible y la distribución de
+información.</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Configurar la estructura: El negociador como arquitecto</dt>
+<dd><p class="first last">Reflexionar sobre como influir en la estructura (partícipes, cuestiones
+y alternativas). La estructura puede condicionar la estrategia, pero
+ésta también altera la estructura. Un negociador hábil alterará la
+estructura aumentando los partícipes o la agenda.</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Dirección del proceso: El negociador como directivo</dt>
+<dd><p class="first last">Tiene origen en la interacción entre negociadores. En esta fase se
+intenta aprender de la otra parte intercambiando percepciones sobre lo
+que es aceptable. El proceso no es lineal, progresa por medio de
+intercambio de información, ofertas y concesiones.</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Grado de cumplimiento de los objetivos: El negociador como juez</dt>
+<dd><p class="first last">Establecer objetivos y revisarlos periódicamente. Cuando la negociación
+finaliza, ésta podrá acabar en un acuerdo, desacuerdo o aplazamiento.
+Los resultados pueden valorarse desde distintos primas: valor creado,
+relaciones establecidas, capital negociador acumulado...</p>
+</dd>
+</dl>
+</li>
+</ol>
+<img alt="Diagnóstico de la situación y dirección de la negociación" class="align-center" src="images/11-diagnostico-situacion-negociacion.png" />
 </div>
 <hr class="docutils" />
 <div class="section" id="referencias">
@@ -169,6 +244,7 @@ Editorial Universitas</td></tr>
 </tbody>
 </table>
 </div>
+
 
             </div>
             <!-- /.entry-content -->
@@ -232,6 +308,11 @@ Editorial Universitas</td></tr>
 
                 <li class="list-group-item"><a href="http://amarjen.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                     <ul class="list-group list-inline tagcloud" id="tags">
+                        <li class="list-group-item tag-4">
+                            <a href="http://amarjen.github.io/tag/.html">
+                                
+                            </a>
+                        </li>
                         <li class="list-group-item tag-4">
                             <a href="http://amarjen.github.io/tag/beta.html">
                                 beta

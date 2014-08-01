@@ -3,6 +3,35 @@
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
+<!-- Using MathJax, with the delimiters $ -->
+<!-- Conflict with pygments for the .mo and .mi -->
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+    "HTML-CSS": {
+    styles: {
+    ".MathJax .mo, .MathJax .mi": {color: "black ! important"}}
+    },
+    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']],processEscapes: true}
+    });
+    MathJax.Hub.Register.StartupHook("HTML-CSS Jax Ready",function () {
+    var VARIANT = MathJax.OutputJax["HTML-CSS"].FONTDATA.VARIANT;
+    VARIANT["normal"].fonts.unshift("MathJax_Serif");
+    VARIANT["bold"].fonts.unshift("MathJax_Serif-bold");
+    VARIANT["italic"].fonts.unshift("MathJax_Serif-italic");
+    VARIANT["-tex-mathit"].fonts.unshift("MathJax_Serif-italic");
+    });
+    MathJax.Hub.Register.StartupHook("SVG Jax Ready",function () {
+    var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;
+    VARIANT["normal"].fonts.unshift("MathJax_Serif");
+    VARIANT["bold"].fonts.unshift("MathJax_Serif-bold");
+    VARIANT["italic"].fonts.unshift("MathJax_Serif-italic");
+    VARIANT["-tex-mathit"].fonts.unshift("MathJax_Serif-italic");
+    });
+</script>
+
+<script type="text/javascript"
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
+</script>
     <title>Como cambiar la Terminal por defecto de gnome - Antonio Martínez</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -51,6 +80,9 @@ Antonio Martínez            </a>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
                         <li >
+                            <a href="http://amarjen.github.io/category/.html"></a>
+                        </li>
+                        <li >
                             <a href="http://amarjen.github.io/category/contabilidad.html">Contabilidad</a>
                         </li>
                         <li >
@@ -94,7 +126,10 @@ Antonio Martínez            </a>
                     </a>
                 </h1>
             </header>
-            <div class="entry-content">
+
+
+	    <div class="entry-content">
+
                 <div class="panel">
                     <div class="panel-body">
 <footer class="post-info">
@@ -109,14 +144,17 @@ Antonio Martínez            </a>
 	<a href="http://amarjen.github.io/tag/gnome.html">gnome</a>
     
 </footer><!-- /.post-info -->                    </div>
+		
                 </div>
-                <p>Resulta que hace unos días decidí probar el terminal Guake y cada vez que lo uso me gusta más, sin embargo, siempre que pulsaba <code>Ctrl + Alt + T</code>, se abría la antigua terminal que gnome trae de serie.</p>
+
+		<p>Resulta que hace unos días decidí probar el terminal Guake y cada vez que lo uso me gusta más, sin embargo, siempre que pulsaba <code>Ctrl + Alt + T</code>, se abría la antigua terminal que gnome trae de serie.</p>
 <p>Para cambiar la configuración de gnome abrir una terminal y ejecutar el siguiente comando:</p>
 <div class="highlight"><pre>gsettings <span class="nb">set </span>org.gnome.desktop.default-applications.terminal <span class="nb">exec</span> <span class="s1">&#39;guake&#39;</span>
 </pre></div>
 
 
 <p>Ahora siempre aparecerá guake cuando invoquemos la terminal, y recuerda para enconderla y volverla a llamar con <code>F12</code></p>
+
             </div>
             <!-- /.entry-content -->
     <hr />
@@ -180,6 +218,11 @@ Antonio Martínez            </a>
                 <li class="list-group-item"><a href="http://amarjen.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                     <ul class="list-group list-inline tagcloud" id="tags">
                         <li class="list-group-item tag-4">
+                            <a href="http://amarjen.github.io/tag/.html">
+                                
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
                             <a href="http://amarjen.github.io/tag/beta.html">
                                 beta
                             </a>
@@ -194,7 +237,7 @@ Antonio Martínez            </a>
                                 consolidación
                             </a>
                         </li>
-                        <li class="list-group-item tag-2">
+                        <li class="list-group-item tag-3">
                             <a href="http://amarjen.github.io/tag/contabilidad.html">
                                 contabilidad
                             </a>
@@ -234,12 +277,12 @@ Antonio Martínez            </a>
                                 linux
                             </a>
                         </li>
-                        <li class="list-group-item tag-1">
+                        <li class="list-group-item tag-2">
                             <a href="http://amarjen.github.io/tag/matplotlib.html">
                                 matplotlib
                             </a>
                         </li>
-                        <li class="list-group-item tag-2">
+                        <li class="list-group-item tag-3">
                             <a href="http://amarjen.github.io/tag/pandas.html">
                                 pandas
                             </a>

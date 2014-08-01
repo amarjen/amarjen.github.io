@@ -3,6 +3,35 @@
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
+<!-- Using MathJax, with the delimiters $ -->
+<!-- Conflict with pygments for the .mo and .mi -->
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+    "HTML-CSS": {
+    styles: {
+    ".MathJax .mo, .MathJax .mi": {color: "black ! important"}}
+    },
+    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']],processEscapes: true}
+    });
+    MathJax.Hub.Register.StartupHook("HTML-CSS Jax Ready",function () {
+    var VARIANT = MathJax.OutputJax["HTML-CSS"].FONTDATA.VARIANT;
+    VARIANT["normal"].fonts.unshift("MathJax_Serif");
+    VARIANT["bold"].fonts.unshift("MathJax_Serif-bold");
+    VARIANT["italic"].fonts.unshift("MathJax_Serif-italic");
+    VARIANT["-tex-mathit"].fonts.unshift("MathJax_Serif-italic");
+    });
+    MathJax.Hub.Register.StartupHook("SVG Jax Ready",function () {
+    var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;
+    VARIANT["normal"].fonts.unshift("MathJax_Serif");
+    VARIANT["bold"].fonts.unshift("MathJax_Serif-bold");
+    VARIANT["italic"].fonts.unshift("MathJax_Serif-italic");
+    VARIANT["-tex-mathit"].fonts.unshift("MathJax_Serif-italic");
+    });
+</script>
+
+<script type="text/javascript"
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
+</script>
     <title>Estrategia e Internet - Antonio Martínez</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,7 +46,7 @@
             <meta property="og:type" content="article"/>
             <meta property="og:title" content="Estrategia e Internet"/>
             <meta property="og:url" content="http://amarjen.github.io/estrategia-internet.html"/>
-            <meta property="og:description" content="Internet incide en los tres terminos de la ecuación: $B=I-C$ if (!document.getElementById(&#39;mathjaxscript_pelican_#%@#$@#&#39;)) { var mathjaxscript = document.createElement(&#39;script&#39;); mathjaxscript.id = &#39;mathjaxscript_pelican_#%@#$@#&#39;; mathjaxscript.type = &#39;text/javascript&#39;; mathjaxscript.src = &#39;https:&#39; == document.location.protocol ? &#39;https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&#39; : &#39;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&#39;; mathjaxscript[(window.opera ? &#34;innerHTML&#34; : &#34;text&#34;)] = &#34;MathJax.Hub.Config({&#34; + &#34; config: [&#39;MMLorHTML.js&#39;],&#34; + &#34; TeX: { extensions: [&#39;AMSmath.js&#39;,&#39;AMSsymbols.js&#39;,&#39;noErrors.js&#39;,&#39;noUndefined.js&#39;], equationNumbers: { autoNumber: &#39;AMS&#39; } },&#34; + &#34; jax: [&#39;input/TeX&#39;,&#39;input/MathML&#39;,&#39;output/HTML-CSS&#39;],&#34; + &#34; extensions: [&#39;tex2jax.js&#39;,&#39;mml2jax.js&#39;,&#39;MathMenu.js&#39;,&#39;MathZoom.js&#39;],&#34; + &#34; displayAlign: &#39;center&#39;,&#34; + &#34; displayIndent: &#39;0em&#39;,&#34; + &#34; showMathMenu: true,&#34; + &#34; tex2jax: { &#34; + &#34; inlineMath: [ [&#39;$&#39;,&#39;$&#39;] ], &#34; + &#34; displayMath: [ [&#39;$$&#39;,&#39;$$&#39;] ],&#34; + &#34; processEscapes: true,&#34; + &#34; preview: &#39;TeX&#39;,&#34; + &#34; }, &#34; + &#34; &#39;HTML-CSS&#39;: { &#34; + &#34; styles: { &#39;.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn&#39;: {color: &#39;black ! important&#39;} }&#34; + &#34; } &#34; + &#34;}); &#34;; (document.body || document.getElementsByTagName(&#39;head&#39;)[0]).appendChild(mathjaxscript); }"/>
+            <meta property="og:description" content="Internet incide en los tres terminos de la ecuación: $B=I-C$"/>
             <meta property="article:published_time" content="2014-07-26" />
                 <meta property="article:section" content="estrategia" />
                 <meta property="article:tag" content="estrategia" />
@@ -50,6 +79,9 @@ Antonio Martínez            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
+                        <li >
+                            <a href="http://amarjen.github.io/category/.html"></a>
+                        </li>
                         <li >
                             <a href="http://amarjen.github.io/category/contabilidad.html">Contabilidad</a>
                         </li>
@@ -94,7 +126,10 @@ Antonio Martínez            </a>
                     </a>
                 </h1>
             </header>
-            <div class="entry-content">
+
+
+	    <div class="entry-content">
+
                 <div class="panel">
                     <div class="panel-body">
 <footer class="post-info">
@@ -109,8 +144,10 @@ Antonio Martínez            </a>
 	<a href="http://amarjen.github.io/tag/estrategia.html">estrategia</a>
     
 </footer><!-- /.post-info -->                    </div>
+		
                 </div>
-                <p><strong>Este artículo es un resumen de</strong> <a class="citation-reference" href="#bilbao-2013" id="id1">[BILBAO-2013]</a> , <strong>capítulo 6</strong></p>
+
+		<p><strong>Este artículo es un resumen de</strong> <a class="citation-reference" href="#bilbao-2013" id="id1">[BILBAO-2013]</a> , <strong>capítulo 6</strong></p>
 <p>Internet incide en los tres terminos de la ecuación:</p>
 <p>$$B_{\uparrow}=I_{\uparrow}-C_{\downarrow}$$</p>
 <ul class="simple">
@@ -261,36 +298,7 @@ fijos</p>
 </tbody>
 </table>
 </div>
-<script type= "text/javascript">
-    if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-        var mathjaxscript = document.createElement('script');
-        mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-        mathjaxscript.type = 'text/javascript';
-        mathjaxscript.src = 'https:' == document.location.protocol
-                ? 'https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
-                : 'http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
-        mathjaxscript[(window.opera ? "innerHTML" : "text")] =
-            "MathJax.Hub.Config({" +
-            "    config: ['MMLorHTML.js']," +
-            "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
-            "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-            "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-            "    displayAlign: 'center'," +
-            "    displayIndent: '0em'," +
-            "    showMathMenu: true," +
-            "    tex2jax: { " +
-            "        inlineMath: [ ['$','$'] ], " +
-            "        displayMath: [ ['$$','$$'] ]," +
-            "        processEscapes: true," +
-            "        preview: 'TeX'," +
-            "    }, " +
-            "    'HTML-CSS': { " +
-            "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'black ! important'} }" +
-            "    } " +
-            "}); ";
-        (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-    }
-</script>
+
 
             </div>
             <!-- /.entry-content -->
@@ -355,6 +363,11 @@ fijos</p>
                 <li class="list-group-item"><a href="http://amarjen.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                     <ul class="list-group list-inline tagcloud" id="tags">
                         <li class="list-group-item tag-4">
+                            <a href="http://amarjen.github.io/tag/.html">
+                                
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
                             <a href="http://amarjen.github.io/tag/beta.html">
                                 beta
                             </a>
@@ -369,7 +382,7 @@ fijos</p>
                                 consolidación
                             </a>
                         </li>
-                        <li class="list-group-item tag-2">
+                        <li class="list-group-item tag-3">
                             <a href="http://amarjen.github.io/tag/contabilidad.html">
                                 contabilidad
                             </a>
@@ -409,12 +422,12 @@ fijos</p>
                                 linux
                             </a>
                         </li>
-                        <li class="list-group-item tag-1">
+                        <li class="list-group-item tag-2">
                             <a href="http://amarjen.github.io/tag/matplotlib.html">
                                 matplotlib
                             </a>
                         </li>
-                        <li class="list-group-item tag-2">
+                        <li class="list-group-item tag-3">
                             <a href="http://amarjen.github.io/tag/pandas.html">
                                 pandas
                             </a>
