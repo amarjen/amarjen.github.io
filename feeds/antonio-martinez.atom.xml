@@ -1,10 +1,183 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Antonio Martínez</title><link href="http://amarjen.github.io/" rel="alternate"></link><link href="http://amarjen.github.io/feeds/antonio-martinez.atom.xml" rel="self"></link><id>http://amarjen.github.io/</id><updated>2014-08-01T12:33:00+02:00</updated><entry><title>Fundamentos de la teoría de los recursos y capacidades</title><link href="http://amarjen.github.io/teoria-recursos-capacidades.html" rel="alternate"></link><updated>2014-08-01T12:33:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-08-01:teoria-recursos-capacidades.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Antonio Martínez</title><link href="http://amarjen.github.io/" rel="alternate"></link><link href="http://amarjen.github.io/feeds/antonio-martinez.atom.xml" rel="self"></link><id>http://amarjen.github.io/</id><updated>2014-08-03T11:40:00+02:00</updated><entry><title>Apropiación de los beneficios de la innovación</title><link href="http://amarjen.github.io/apropiacion-beneficios-innovacion.html" rel="alternate"></link><updated>2014-08-03T11:40:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-08-03:apropiacion-beneficios-innovacion.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+&lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 5, epígrafe III&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;La apropiabilidad significa en qué porcentaje la empresa innovadora puede
+capturar el valor que se deriva de la innovación en forma de beneficios. La
+apropiabilidad es una función del tiempo que pueda mantenerse la ventaja
+competitiva derivada de la innovación.&lt;/p&gt;
+
+&lt;p&gt;El mantenimiento de la ventaja competitiva estará determinado por la
+posibilidad de establecer barreras a la imitación. En este sentido, los
+mecanismos de protección más importantes son: La protección legal (patentes,
+modelos de utilidad y secreto industrial), la naturaleza del conocimiento, los
+recursos complementarios y las ventajas de mover primero.&lt;/p&gt;
+&lt;div class="section" id="la-proteccion-legal"&gt;
+&lt;h2&gt;La protección legal&lt;/h2&gt;
+&lt;div class="section" id="patentes"&gt;
+&lt;h3&gt;Patentes&lt;/h3&gt;
+&lt;p&gt;La patente es un título de propiedad otorgado por el Estado, que
+concede a su poseedor el derecho a la protección legal durante veinte
+años, del empleo comercial de una invención tecnológica.&lt;/p&gt;
+&lt;p&gt;El titular de la patente puede explotar por sí mismo el invento
+o autorizar mediante licencia a quien considere oportuno.&lt;/p&gt;
+&lt;p&gt;Cada país tiene su propio sistema de propiedad industrial. En España
+hay tres vías para obtener una patente:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Vía nacional&lt;/li&gt;
+&lt;li&gt;Vía europea&lt;/li&gt;
+&lt;li&gt;Vía internacional&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Donde no se solicite protección el conocimiento será de dominio público. En
+España, los derechos de propiedad los otorga la &lt;a class="reference external" href="http://www.oepm.es"&gt;Oficina Española de Patentes
+y Marcas&lt;/a&gt;, previo examen de la solicitud.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Inconvenientes de la patente:&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;La solicitud de la patente debe describir detalladamente la
+innovación para que un experto medio pueda reproducirla.&lt;/li&gt;
+&lt;li&gt;La patente tiene costes de solicitud y de mantenimiento, cuyo
+incumplimiento provoca la caducidad de la concesión.&lt;/li&gt;
+&lt;li&gt;Tras el periodo de protección, la patente se libera y el conocimiento
+pasa a ser de dominio público.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Una estrategia habitual consiste en patentar además de la innovación principal,
+modificaciones y posibles alternativas. A esta estrategia se le conoce como
+&lt;em&gt;muro de patentes&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="modelos-de-utilidad"&gt;
+&lt;h3&gt;Modelos de utilidad&lt;/h3&gt;
+&lt;p&gt;Se consideran una singularidad española. Están diseñados para proteger
+pequeñas invenciones nuevas en España. A los modelos de utilidad se les
+aplica las normas de las patentes, salvo que la protección es por un
+periodo de diez años improrrogables.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="secreto-industrial"&gt;
+&lt;h3&gt;Secreto industrial&lt;/h3&gt;
+&lt;p&gt;Consiste en un conocimiento no patentado, por lo que no otorga
+protección legal. Otra empresa podría descubrir lo mismo de forma
+independiente o imitando la invención mediante ingeniería inversa. Los
+incentivos para optar por este mecanismo de protección están
+relacionados directamente con las desventajas de las patentes
+(necesidad de describir detalladamente el conocimiento, los costes de
+solicitud y mantenimiento, y el periodo limitado de protección legal)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="la-naturaleza-del-conocimiento"&gt;
+&lt;h2&gt;La naturaleza del conocimiento&lt;/h2&gt;
+&lt;p&gt;La naturaleza del conocimiento condiciona hasta qué punto es posible imitar una
+innovación. En este sentido son importantes dos características: el tipo de
+conocimiento que incorpora la innovación (tácito o codificable) y el grado de
+complejidad del mismo.&lt;/p&gt;
+&lt;p&gt;La innovación basada sobre el conocimiento tácito es más difícil de imitar
+y cuanto más complejo es el conocimiento, tanto más difícil es imitarlo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="los-recursos-complementarios"&gt;
+&lt;h2&gt;Los recursos complementarios&lt;/h2&gt;
+&lt;p&gt;Para traducir la innovación en resultados es necesaria la presencia de recursos
+complementarios (inversiones en producción, comercialización y distribución).
+La empresa innovadora podrá beneficiarse por más tiempo de su innovación,
+cuanto más difícil sea para la competencia adquirir los recursos
+complementarios asociados a dicha innovación.&lt;/p&gt;
+&lt;p&gt;Los recursos complementarios pueden clasificarse en genéricos y especializados.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Recursos complementarios genéricos&lt;/dt&gt;
+&lt;dd&gt;Existen antes de la innovación. La empresa puede adquirirlos en el
+mercado a diversos proveedores y a precios competitivos. La
+comercialización de la innovación será más sencilla.&lt;/dd&gt;
+&lt;dt&gt;Recursos complementarios especializados&lt;/dt&gt;
+&lt;dd&gt;Se tienen que desarrollar &lt;em&gt;ad-hoc&lt;/em&gt; para la comercialización de la
+innovación, por lo que su presencia constituye una importante barrera
+a la imitación.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;img alt="Recursos complementarios necesarios para la comercialización de la innovación" class="align-center" src="images/05-recursos-complementarios.png" /&gt;
+&lt;/div&gt;
+&lt;div class="section" id="las-ventajas-de-mover-primero"&gt;
+&lt;h2&gt;Las ventajas de mover primero&lt;/h2&gt;
+&lt;p&gt;Mover primero, es decir, introducir un nuevo producto al mercado, otorga a la empresa una serie de ventajas:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Disfrute de un monopolio temporal.&lt;/li&gt;
+&lt;li&gt;Efecto experiencia&lt;/li&gt;
+&lt;li&gt;Condiciones especiales con proveedores&lt;/li&gt;
+&lt;li&gt;Poder escoger el segmento de mercado más interesante&lt;/li&gt;
+&lt;li&gt;Imagen de marca y fidelidad de clientes&lt;/li&gt;
+&lt;li&gt;Los clientes pueden incurrir en elevados costes de cambio&lt;/li&gt;
+&lt;li&gt;La empresa puede anticipar capacidad productiva.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Mover primero, también conlleva importantes riesgos para el innovador:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Efectos &lt;em&gt;free rider&lt;/em&gt;: Menores costes del seguidor.&lt;/li&gt;
+&lt;li&gt;La inercia de la empresa incumbente&lt;/li&gt;
+&lt;li&gt;La resolución de la incertidumbre: El
+seguidor aprende de los errores del innovador.&lt;/li&gt;
+&lt;li&gt;El cambio en la tecnología o en los gustos del cliente.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Según la evolución tecnológica y la evolución del mercado, se distinguen cuatro
+escenarios diferentes. El modelo resalta los recursos clave necesarios en cada
+escenario para explotar las ventajas del ingreso precoz&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="16%" /&gt;
+&lt;col width="14%" /&gt;
+&lt;col width="16%" /&gt;
+&lt;col width="54%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Escenario&lt;/th&gt;
+&lt;th class="head"&gt;Ventajas efímeras&lt;/th&gt;
+&lt;th class="head"&gt;Ventajas perdurables&lt;/th&gt;
+&lt;th class="head"&gt;Recursos clave&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;Aguas calmadas&lt;/td&gt;
+&lt;td&gt;Improbable&lt;/td&gt;
+&lt;td&gt;Muy probable&lt;/td&gt;
+&lt;td&gt;Reconocimiento de marca ayuda&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;El mercado manda&lt;/td&gt;
+&lt;td&gt;Muy probable&lt;/td&gt;
+&lt;td&gt;Probable&lt;/td&gt;
+&lt;td&gt;Marketing a gran escala, distribución y capacidad productiva&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;La tecnología manda&lt;/td&gt;
+&lt;td&gt;Muy improbable&lt;/td&gt;
+&lt;td&gt;Improbable&lt;/td&gt;
+&lt;td&gt;Fuerte I+D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Aguas bravas&lt;/td&gt;
+&lt;td&gt;Probable&lt;/td&gt;
+&lt;td&gt;Muy improbable&lt;/td&gt;
+&lt;td&gt;Marketing a gran escala, distribución, capacidad productiva y fuerte I+D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="referencias"&gt;
+&lt;h2&gt;Referencias&lt;/h2&gt;
+&lt;table class="docutils citation" frame="void" id="bil2013" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[BIL2013]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Paloma Bilbao, &lt;em&gt;et al&lt;/em&gt; (2013), &lt;em&gt;Política de Empresa y Estrategia&lt;/em&gt;, 3ªEd.,
+Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://ubr.universia.net/pdfs/UBR0012004070.pdf"&gt;http://ubr.universia.net/pdfs/UBR0012004070.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="estrategia"></category></entry><entry><title>Fundamentos de la teoría de los recursos y capacidades</title><link href="http://amarjen.github.io/teoria-recursos-capacidades.html" rel="alternate"></link><updated>2014-08-01T12:33:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-08-01:teoria-recursos-capacidades.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 1, epígrafe V&lt;/p&gt;
 &lt;/div&gt;
-&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
 &lt;p&gt;La aparición de la teoría de los recursos y capacidades tiene su origen en las carencias y problemas del enfoque de la organización industrial, cuyo principal exponente es el modelo de las cinco fuerzas competitivas de Michael Porter.&lt;/p&gt;
-&lt;!-- PELICAN_END_SUMMARY --&gt;
+
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;Dificultades del enfoque de la organización industrial:&lt;/dt&gt;
 &lt;dd&gt;&lt;ul class="first last simple"&gt;
@@ -200,11 +373,11 @@ Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
 </summary><category term="estrategia"></category></entry><entry><title>La esencia de la negociación</title><link href="http://amarjen.github.io/esencia-negociacion.html" rel="alternate"></link><updated>2014-07-30T21:13:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-30:esencia-negociacion.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 11, epígrafe II&lt;/p&gt;
 &lt;/div&gt;
-&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
 &lt;p&gt;La negociación puede definirse como una discusión entre dos o más partes a fin
 de resolver objetivos incompatibles o divergentes. Estas partes pueden ser
 individuos, grupos, organizaciones o unidades políticas.&lt;/p&gt;
-&lt;!-- PELICAN_END_SUMMARY --&gt;
+
 &lt;div class="section" id="elementos-fundamentales"&gt;
 &lt;h2&gt;Elementos fundamentales&lt;/h2&gt;
 &lt;ul&gt;
