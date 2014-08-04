@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antonio Martínez. Empresa ~ Economía ~ Finanzas</title><link>http://amarjen.github.io/</link><description></description><atom:link href="http://amarjen.github.io/feeds/amarjen.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 11 Nov 2012 23:17:00 +0100</lastBuildDate><item><title>Calcular la beta de una acción con python</title><link>http://amarjen.github.io/calcular-beta-python.html</link><description>&lt;p&gt;Según el modelo
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Economía ~ Empresa ~ Finanzas</title><link>http://amarjen.github.io/</link><description></description><atom:link href="http://amarjen.github.io/feeds/amarjen.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 11 Nov 2012 23:17:00 +0100</lastBuildDate><item><title>Calcular la beta de una acción con python</title><link>http://amarjen.github.io/calcular-beta-python.html</link><description>&lt;p&gt;Según el modelo
 &lt;a class="reference external" href="http://es.wikipedia.org/wiki/Modelo_de_valoraci%C3%B3n_de_activos_financieros"&gt;CAPM&lt;/a&gt;,
 la beta representa el riesgo sistémico de un activo, es decir, aquel que
 no puede reducirse diversificando. Mide la sensibilidad de la
