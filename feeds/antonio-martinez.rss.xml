@@ -1,5 +1,200 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Economía ~ Empresa ~ Finanzas</title><link>http://amarjen.github.io/</link><description></description><atom:link href="http://amarjen.github.io/feeds/antonio-martinez.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 03 Aug 2014 11:40:00 +0200</lastBuildDate><item><title>Apropiación de los beneficios de la innovación</title><link>http://amarjen.github.io/apropiacion-beneficios-innovacion.html</link><description>&lt;div class="alert  alert-info compound"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Economía ~ Empresa ~ Finanzas</title><link>http://amarjen.github.io/</link><description></description><atom:link href="http://amarjen.github.io/feeds/antonio-martinez.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 08 Aug 2014 18:13:00 +0200</lastBuildDate><item><title>Estrategia tecnológica de la empresa</title><link>http://amarjen.github.io/estrategia-tecnologica-empresa.html</link><description>&lt;div class="alert  alert-info compound"&gt;
+&lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 5, epígrafe III&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Los pasos en el proceso de formulación de la estrategia tecnológica de la
+empresa son los siguientes:&lt;/p&gt;
+
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Identificar el &amp;quot;potencial tecnológico&amp;quot;, esto es, los recursos y capacidades
+de ámbito tecnológico.&lt;/li&gt;
+&lt;li&gt;Gestión adecuada de estos recursos mediante su vigilancia, evaluación,
+enriquecimiento, optimización y protección.&lt;/li&gt;
+&lt;li&gt;Valorar la &amp;quot;posición tecnológica&amp;quot; de la empresa, que puede ser fuerte,
+media o débil&lt;/li&gt;
+&lt;li&gt;Diseñar la &amp;quot;estrategia tecnológica&amp;quot;. Algunas herramientas disponibles son
+el modelo de análisis tecnológico de Arthur D. Little, la curva &amp;quot;S&amp;quot; de Foster,
+la teoría de la innovación disruptiva y el modelo de racimos tecnológivos.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="section" id="modelo-de-arthur-d-little"&gt;
+&lt;h2&gt;Modelo de Arthur D. Little&lt;/h2&gt;
+&lt;p&gt;Este modelo relaciona la posición tecnológica (débil, media o fuerte) con la
+posición competitiva (débil o fuerte) de la empresa, identificando seis
+posibles estrategias tecnológicas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Liderazgo tecnológico&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;Estrategia apropiada para las empresas con fuerte posición competitiva
+y tecnológica. Requiere mantenerse a la vanguardia en tecnologías clave
+y emergentes del sector.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Seguidor&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;Empresas con fuerte posición competitiva con posición tecnológica
+media. Evita los riesgos y costes de ser el primero.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Adquisición de tecnología&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;Válida para empresas con fuerte posición competitiva pero débil base
+tecnológica.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Nicho tecnológico&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;Apropiada para empresas con débil posición competitiva y media posición
+tecnológica. Ampliando el nicho gradualmente, puede evolucionar su
+estrategia.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Empresa mixta (Alianzas, joint ventures)&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;Útil para empresas con posición tecnológica fuerte sin los recursos
+necesarios para explotarla.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Reconversión&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;Necesaria para empresas en posiciones débiles.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="la-curva-s-de-foster"&gt;
+&lt;h2&gt;La curva &amp;quot;S&amp;quot; de Foster&lt;/h2&gt;
+&lt;p&gt;Según Foster, existe una pauta en el desarrollo tecnológico y que su
+conocimiento puede ayudar a la formulación de la estrategia tecnológica. La
+curva &amp;quot;S&amp;quot; representa la evolución de los rendimientos marginales del esfuerzo
+en I+D durante el ciclo tecnológico.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;En la fase inicial, el conocimiento está fragmentado y las inversiones en I+D
+tienen un efecto limitado sobre las prestaciones de una tecnología.&lt;/li&gt;
+&lt;li&gt;En la fase central, el conocimiento está bien establecido y aún lejos de sus
+límites, es donde la inversión en I+D produce los mayores beneficios.&lt;/li&gt;
+&lt;li&gt;En la fase final, definida por los límites tecnológicos, innmutables y
+definidos por las leyes de la naturaleza, los beneficios de la inversión en I+D
+tienden a reducirse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La única forma de avanzar cuando una tecnología se aproxima a sus limites es a
+través de una &lt;em&gt;discontinuidad tecnológica&lt;/em&gt;, una innovación drástica que avanza
+los límites tecnológicos dando entrada a un nuevo ciclo tecnológico.&lt;/p&gt;
+&lt;p&gt;Un comportamiento habitual es el de &lt;em&gt;miopia tecnológica&lt;/em&gt;, concentrar los esfuerzos
+de I+D sobre la tecnología en uso. De hecho, cuando las empresas están llegando
+a la zona central de la curva &amp;quot;S&amp;quot;, fase de máximos rendimientos, es cuando
+tendrían que explorar posibles nuevas tecnologías.&lt;/p&gt;
+&lt;p&gt;Durante las discontinuidades tecnológicas los atancantes tienen ventaja frente
+a los defensores, debido a que estos últimos se enfrentan a &lt;em&gt;costes hundidos&lt;/em&gt;
+representados tanto en inversiones como en el aprendizaje específico a la
+antigua tecnología.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="la-teoria-de-la-innovacion-disruptiva"&gt;
+&lt;h2&gt;La teoría de la innovación disruptiva&lt;/h2&gt;
+&lt;p&gt;Clayton Christensen explica como las empresas establecidas son desplazadas por
+nuevos entrantes. La estrategia de las empresas establecidades que lideran el
+mercado consiste en mejorar incrementalmente sus productos dirigidos a sus
+mejores clientes, mediante innovaciones evolutivas.&lt;/p&gt;
+&lt;p&gt;Una empresa puede entrar en un sector introduciendo una innovación disruptiva,
+a priori de menor calidad pero que es aceptada inicialmente por segmentos del
+mercado menos exigentes. Ejemplos: Aerolíneas lowcost, Telefonía VOIP,
+Fotografia digital...&lt;/p&gt;
+&lt;p&gt;Conforme va pasando el tiempo, la innovación disruptiva va mejorando y llegará
+el momento en que sea aceptada por la mayoría del mercado, entonces el nuevo
+entrante podrá desplazar a la empresa incumbente.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="modelo-de-racimos-tecnologicos"&gt;
+&lt;h2&gt;Modelo de racimos tecnológicos&lt;/h2&gt;
+&lt;p&gt;Por &lt;em&gt;racimo tecnológico&lt;/em&gt; se entiende el conjunto de actividades basadas en la
+misma esencia tecnológica, independientemente del sector industrial y de la
+cadena de valor.&lt;/p&gt;
+&lt;p&gt;En este sentido, una empresa debe plantearse la decisión estrategica de
+explotar sistemáticamente su tecnología en sectores distintos al propio. Por
+tanto, la tecnología disponible se conveierte en el criterio clave para
+determinar los distintos sectores de actividad de la empresa.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="referencias"&gt;
+&lt;h2&gt;Referencias&lt;/h2&gt;
+&lt;table class="docutils citation" frame="void" id="bil2013" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[BIL2013]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Paloma Bilbao, &lt;em&gt;et al&lt;/em&gt; (2013), &lt;em&gt;Política de Empresa y Estrategia&lt;/em&gt;, 3ªEd.,
+Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Martínez</dc:creator><pubDate>Fri, 08 Aug 2014 18:13:00 +0200</pubDate><guid>tag:amarjen.github.io,2014-08-08:estrategia-tecnologica-empresa.html</guid><category>estrategia</category></item><item><title>Modelo del ciclo de vida del sector</title><link>http://amarjen.github.io/modelo-ciclo-vida-sector.html</link><description>&lt;div class="alert  alert-info compound"&gt;
+&lt;p&gt;este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 3, epígrafe III&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Se trata de un concepto similar al ciclo de vida de un producto. El supuesto clave es que los sectores siguen un ciclo con características evolutivas comunes a diferentes sectores.&lt;/p&gt;
+
+&lt;img alt="Modelo del ciclo de vida del sector" class="align-center" src="images/03-ciclo-de-vida-del-sector.png" /&gt;
+&lt;div class="section" id="el-crecimiento-de-la-demanda"&gt;
+&lt;h2&gt;El crecimiento de la demanda&lt;/h2&gt;
+&lt;div class="section" id="fase-de-introduccion"&gt;
+&lt;h3&gt;Fase de introducción&lt;/h3&gt;
+&lt;p&gt;Es la fase del nacimiento de la industria. La entrada es fácil porque todavía
+no hay un estándar de producto definido, hay pocas ventas, no han entrado las
+grandes empresas, por tanto, no hay todavía economías de escala que actúen como
+barreras de entrada.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="fase-de-crecimiento"&gt;
+&lt;h3&gt;Fase de crecimiento&lt;/h3&gt;
+&lt;p&gt;El crecimiento puede deberse a distintos factores. Si las empresas pioneras
+observan una demanda latente, intentarán crecer para alcanzar economías de
+escala; la tecnología puede estandarizarse reduciendo los costes; la calidad
+puede mejorar...&lt;/p&gt;
+&lt;p&gt;La clave competitiva es un círculo virtuoso:&lt;/p&gt;
+&lt;div class="math"&gt;
+\begin{equation*}
+\uparrow \text{Demanda} \Longrightarrow \text{Plantas más eficientes} \Longrightarrow \downarrow \text{Costes} \Longrightarrow \downarrow \text{Precios} \Longrightarrow \uparrow \text{Demanda}
+\end{equation*}
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="fase-de-madurez"&gt;
+&lt;h3&gt;Fase de madurez&lt;/h3&gt;
+&lt;p&gt;El crecimiento de la demanda se ralentiza y la industria se consolida vía
+fusiones. Es habitual que las empresas inviertan demasiado en esta fase para no
+desaparecer lo que puede ocasionar un exceso de capacidad.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="fase-de-declive"&gt;
+&lt;h3&gt;Fase de declive&lt;/h3&gt;
+&lt;p&gt;Es difícil determinar el declive de un sector. En ocasiones el declive es rápido (maquinas de escribir), a veces se eterniza la madurez (banca, automóvil), también un sector puede rejuvenecer (ferrocarril).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="criticas-de-porter"&gt;
+&lt;h2&gt;Criticas de Porter&lt;/h2&gt;
+&lt;p&gt;Para Michael Porter los cambios en un sector tendrán importancia estratégica si afectan a la estructura del sector, es decir, a las interrelaciones de las cinco fuerzas. Porter critica el modelo del ciclo de vida por las siguientes razones:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;La duración de las fases varía mucho, y con frecuencia es difícil determinar
+en que fase del ciclo se encuentra una industria.&lt;/li&gt;
+&lt;li&gt;El crecimiento del sector no siempre sigue el patrón en forma de S&lt;/li&gt;
+&lt;li&gt;Una empresa con poder de mercado puede cambiar el patrón de crecimiento
+mediante la innovación y renovación del producto.&lt;/li&gt;
+&lt;li&gt;La naturaleza de la competencia asociada con cada una de las fases es
+diferente ara distintos sectores industriales.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="referencias"&gt;
+&lt;h2&gt;Referencias&lt;/h2&gt;
+&lt;table class="docutils citation" frame="void" id="bil2013" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[BIL2013]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Paloma Bilbao, &lt;em&gt;et al&lt;/em&gt; (2013), &lt;em&gt;Política de Empresa y Estrategia&lt;/em&gt;, 3ªEd.,
+Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Martínez</dc:creator><pubDate>Thu, 07 Aug 2014 18:29:00 +0200</pubDate><guid>tag:amarjen.github.io,2014-08-07:modelo-ciclo-vida-sector.html</guid><category>estrategia</category></item><item><title>Apropiación de los beneficios de la innovación</title><link>http://amarjen.github.io/apropiacion-beneficios-innovacion.html</link><description>&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 5, epígrafe III&lt;/p&gt;
 &lt;/div&gt;
 
@@ -1584,10 +1779,8 @@ Desarrollo de mercados&lt;/td&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;Razón general&lt;/dt&gt;
 &lt;dd&gt;La adaptación a un entorno cada vez más global.&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;p&gt;&lt;strong&gt;Factores Pais&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
+&lt;dt&gt;Factores Pais&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last"&gt;
 &lt;li&gt;&lt;dl class="first docutils"&gt;
 &lt;dt&gt;Ciclo de vida del producto o de la industria&lt;/dt&gt;
 &lt;dd&gt;&lt;ul class="first last simple"&gt;
@@ -1626,53 +1819,51 @@ demanda. Ej: Heineken, Carlsberg y Guiness&lt;/li&gt;
 &lt;li&gt;&lt;p class="first"&gt;Condiciones legales&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Factores del Sector&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Factores del Sector&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last"&gt;
+&lt;li&gt;&lt;p class="first"&gt;Nivel de globalización:&lt;/p&gt;
+&lt;p&gt;Porter, distingue los sectores, según el &lt;em&gt;grado de globalización&lt;/em&gt;, en dos extremos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;dl class="first docutils"&gt;
-&lt;dt&gt;Nivel de globalización:&lt;/dt&gt;
-&lt;dd&gt;&lt;blockquote class="first"&gt;
-&lt;p&gt;Porter, distingue los sectores, según el &lt;em&gt;grado de globalización&lt;/em&gt;, en dos extremos:&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul class="last simple"&gt;
-&lt;li&gt;&lt;strong&gt;Industrias multipaís&lt;/strong&gt;&lt;ul&gt;
+&lt;dt&gt;Industrias multipaís&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
 &lt;li&gt;La competencia en cada país es independiente del resto.&lt;/li&gt;
 &lt;li&gt;Las empresas tendrán que adaptarse a las condiciones propias de cada mercado.&lt;/li&gt;
 &lt;li&gt;La internacionalización es opcional&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industrias globales&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Industrias globales&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
 &lt;li&gt;El sector, a nivel internacional, está formado por una serie de
 subsectores nacionales.&lt;/li&gt;
 &lt;li&gt;Las empresas compiten a nivel global.&lt;/li&gt;
 &lt;li&gt;La internacionalización es inevitable&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/dd&gt;
 &lt;/dl&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Factores de la Empresa&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul class="simple"&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Factores de la Empresa&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
 &lt;li&gt;Exceso de recursos&lt;/li&gt;
 &lt;li&gt;Reducción del riesgo global de la compañía&lt;/li&gt;
 &lt;li&gt;Dependencia estratégica&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
 &lt;/div&gt;
 &lt;div class="section" id="opciones"&gt;
 &lt;h3&gt;Opciones&lt;/h3&gt;
-&lt;p&gt;Porter, partiendo del modelo de la cadena de valor distingue entre:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Actividades orientadas hacia abajo (Cliente)&lt;/li&gt;
-&lt;li&gt;Actividades orientadas hacia arriba (Proveedor)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Porter, partiendo del modelo de la cadena de valor distingue entre:
+* Actividades orientadas hacia abajo (Cliente)
+* Actividades orientadas hacia arriba (Proveedor)&lt;/p&gt;
 &lt;p&gt;La estrategia internacional de las empresas dependerá de dos decisiones: De
 configuración (localización de las actividades que componen la cadena de valor)
 y de nivel de coordinación entre dichas actividades.&lt;/p&gt;
@@ -1718,36 +1909,34 @@ y de nivel de coordinación entre dichas actividades.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Estrategia Global&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul class="simple"&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Estrategia Global&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
 &lt;li&gt;La coordinación y la configuración tienden a ser máximas&lt;/li&gt;
 &lt;li&gt;Las empresas tratan de competir en costes sin perseguir la adaptación al cliente.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Estrategia Global con adaptaciones&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul class="simple"&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Estrategia Global con adaptaciones&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
 &lt;li&gt;Las empresas sacrifican parte de la eficiencia basada en la estandarización
 para adaptarse a los distintos mercados.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Estrategia Multipais&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul class="simple"&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Estrategia Multipais&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
 &lt;li&gt;Las filiales funcionan de forma semiautónoma&lt;/li&gt;
 &lt;li&gt;Las empresas comparten algunan capacidades que poseen a nivel global&lt;/li&gt;
 &lt;li&gt;Es la peor situación desde el punto de vista de la eficiencia&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Estrategia Multipais Coordinada&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul class="simple"&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Estrategia Multipais Coordinada&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
 &lt;li&gt;Localizar las actividades hacia arriba para optimizar los costes&lt;/li&gt;
 &lt;li&gt;Localizar las actividades hacia abajo más cerca de los clientes&lt;/li&gt;
 &lt;li&gt;Esta estrategia implica unos costes muy elevados derivados de la alta coordinación y dispersión.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
 &lt;hr class="docutils" /&gt;
 &lt;p&gt;La evolución de las industrias tiende a la globalización. Esto tiene una doble
 implicación. Las empresas tratarán de conseguir altos niveles de coordinación.
@@ -1756,63 +1945,197 @@ concebir su estrategia internacional de un modo dinámico.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="formas-modelo-de-uppsala"&gt;
 &lt;h3&gt;Formas (Modelo de Uppsala)&lt;/h3&gt;
-&lt;p&gt;Tres opciones fundamentales:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul class="simple"&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Tres opciones fundamentales:&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
 &lt;li&gt;Operaciones comerciales (Importación / Exportación)&lt;/li&gt;
 &lt;li&gt;Acuerdos contractuales (Joint-ventures, Alianzas, Licencias)&lt;/li&gt;
 &lt;li&gt;Inversión Directa Exterior&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
 &lt;p&gt;El modelo percibe la internacionalización como un proceso en el
 que la empresa incrementa gradualmente su compromiso internacional.&lt;/p&gt;
 &lt;p&gt;El proceso evoluciona en función de dos variables:&lt;/p&gt;
-&lt;blockquote&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Desarrollo de conocimientos&lt;/li&gt;
 &lt;li&gt;Cantidad de Recursos comprometidos&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
 &lt;p&gt;Dos aspectos sobre el Modelo de Uppsala:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;Describe como el compromiso en un mercado se desarrolla siguiendo unas pautas:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Describe como el compromiso en un mercado se desarrolla siguiendo unas pautas:&lt;ol class="arabic"&gt;
+&lt;ol class="arabic simple"&gt;
 &lt;li&gt;La entrada se realiza al principio a través de exportaciones irregulares&lt;/li&gt;
 &lt;li&gt;La siguiente fase implica la utilización de agentes independientes&lt;/li&gt;
 &lt;li&gt;Finalmente, mediante la IDE a través de filiales comerciales y/o productivas&lt;/li&gt;
 &lt;/ol&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;li&gt;Explica la elección del país de destino&lt;ul&gt;
-&lt;li&gt;Donde las distancias geográfica y psicologica (idioma, cultura, desarrollo...) sean menores&lt;/li&gt;
-&lt;li&gt;Ghemawat describe cuatro tipos de distancia (&lt;strong&gt;modelo CAGE&lt;/strong&gt;)&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;Explica la elección del país de destino&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;Donde las distancias geográfica y psicologica (idioma, cultura, desarrollo...) sean menores&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Ghemawat describe cuatro tipos de distancia (&lt;strong&gt;modelo CAGE&lt;/strong&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
 &lt;li&gt;Distancia &lt;strong&gt;C&lt;/strong&gt; ultural: Idioma, Raza, Religión, Normas sociales...&lt;/li&gt;
 &lt;li&gt;Distancia &lt;strong&gt;A&lt;/strong&gt; dministrativa: Lazos coloniales, Asociaciones políticas, Hostilidad política...&lt;/li&gt;
 &lt;li&gt;Distancia &lt;strong&gt;G&lt;/strong&gt; eográfica: Lejanía, Frontera común, Acceso fluvial, Medios de transporte...&lt;/li&gt;
 &lt;li&gt;Distancia &lt;strong&gt;E&lt;/strong&gt; conómica: Dif en los ingresos de los clientes, dif en costes y calidad de inputs...&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Precisiones:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul class="simple"&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Precisiones:&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
 &lt;li&gt;Su aplicación está orientada para empresas pequeñas&lt;/li&gt;
 &lt;li&gt;El modelo se ajusta mejor a empresas sin experiencia previa en la actividad internacional&lt;/li&gt;
 &lt;li&gt;Empresas grandes y las que tienen mayor experiencia alterarán el patrón descrito por el &lt;em&gt;modelo de Uppsala&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="estrategia-de-diversificacion"&gt;
 &lt;h2&gt;Estrategia de diversificación&lt;/h2&gt;
+&lt;p&gt;La diversificación consiste en añadir simultáneamente nuevos productos y nuevos
+mercados a los ya existentes. Se decide diversificar cuando el nuevo sector
+ofrece mejores oportunidades que el sector actual y es posible establecer una
+ventaja competitiva sobre las empresas actuales del nuevo sector.&lt;/p&gt;
+&lt;p&gt;La clasificación de Rumelt distingue cinco tipos de negocio en función de su grado de diversificación.&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="28%" /&gt;
+&lt;col width="40%" /&gt;
+&lt;col width="32%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Tipo&lt;/th&gt;
+&lt;th class="head"&gt;% de ingresos del negocio dominante&lt;/th&gt;
+&lt;th class="head"&gt;Vínculos entre los negocios&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;Un único negocio&lt;/td&gt;
+&lt;td&gt;&amp;gt; 95%&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Negocio dominante&lt;/td&gt;
+&lt;td&gt;70 ~ 95%&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Limitadamente relacionada&lt;/td&gt;
+&lt;td&gt;&amp;lt; 70%&lt;/td&gt;
+&lt;td&gt;Todos los negocios comparten
+vínculos.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Relacionada vinculada /
+encadenada&lt;/td&gt;
+&lt;td&gt;&amp;lt; 70%&lt;/td&gt;
+&lt;td&gt;Vínculos limitados.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;No relacionada&lt;/td&gt;
+&lt;td&gt;&amp;lt; 70%&lt;/td&gt;
+&lt;td&gt;No hay vínculos.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Las empresas pueden optar por una estrategia de diversificación como
+instrumento de crecimiento corporativo por motivos diversos. Por ejemplo:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Saturación del mercado tradicional&lt;/li&gt;
+&lt;li&gt;Reducción del riesgo global&lt;/li&gt;
+&lt;li&gt;Incremento en el nivel de eficiencia operativa de la empresa&lt;/li&gt;
+&lt;li&gt;Oportunidades de inversión de excendentes financieros&lt;/li&gt;
+&lt;li&gt;Poder de mercado&lt;/li&gt;
+&lt;li&gt;la búsqueda de crecimiento&lt;/li&gt;
+&lt;li&gt;Reforzamiento de la posición competitiva mediante la búsqueda de sinergias&lt;/li&gt;
+&lt;li&gt;Efecto coaseguro&lt;/li&gt;
+&lt;li&gt;Creación de un mercado de capitales interno&lt;/li&gt;
+&lt;li&gt;Otros motivos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;No obstante, se observa una tendencia hacia la especialización empresarial,
+debido a los costes asociados a la diversificación:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Tendencia a sobreinvertir en actividades con reducidades oportunidades de inversión&lt;/li&gt;
+&lt;li&gt;La subsidiación cruzada de negocios no rentables&lt;/li&gt;
+&lt;li&gt;La posible existencia de asimetrías informativas entre los directivos centrales y los de las distintas unidades de negocios&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="diversificacion-relacionada"&gt;
 &lt;h2&gt;Diversificación relacionada&lt;/h2&gt;
 &lt;/div&gt;
 &lt;div class="section" id="integracion-vertical"&gt;
 &lt;h2&gt;Integración vertical&lt;/h2&gt;
+&lt;p&gt;Para hacer frente a un entorno más volatil y competitivo, las tendencias
+dominantes  durante las dos últimas décadas del s.XX, han sido la reducción de
+tamaño, el reenfoque y la subcontratación (&lt;em&gt;downsizing, refocusing &amp;amp;
+outsourcing&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;La integración vertical es un caso particular de &amp;quot;diversificación relacionada&amp;quot;, consiste en la posesión por la misma empresa de distintas actividades relacionadas verticualemente. Puede existir en dos direcciones, hacia atrás y hacia adelante.&lt;/p&gt;
+&lt;p&gt;Todas las empresas presentan cierto grado de integración vertical que se puede medir con ciertos indicadores:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Relación entre el valor añadido y el volumen de ventas&lt;/li&gt;
+&lt;li&gt;Ratio vertical: Porcentaje de beneficios atribuibles a actividades relacionadas.&lt;/li&gt;
+&lt;li&gt;Relaciones entre operaciones internas y ventas al exterior&lt;/li&gt;
+&lt;li&gt;Relación del volumen de existencias y el volumen de ventas&lt;/li&gt;
+&lt;li&gt;etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="ventajas"&gt;
+&lt;h3&gt;Ventajas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Beneficios internos&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Reducción de costes&lt;/li&gt;
+&lt;li&gt;Mejora la coordinación de las actividades&lt;/li&gt;
+&lt;li&gt;Evita tareas consumidoras (negociación con proveedores)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Beneficios competitivos&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Reduce la dependencia&lt;/li&gt;
+&lt;li&gt;Permite la diferenciación de productos&lt;/li&gt;
+&lt;li&gt;Aumenta el poder de mercado&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="desventajas"&gt;
+&lt;h3&gt;Desventajas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Costes internos&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Aumenta los costes de coordinación de actividades&lt;/li&gt;
+&lt;li&gt;Desequilibrios en el tamaño mínimo eficiente&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Peligros competitivos&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Los procesos pueden perpetuarse&lt;/li&gt;
+&lt;li&gt;Creación de barreras de movilidad y de salida&lt;/li&gt;
+&lt;li&gt;Sobrevaloración de las sinergias&lt;/li&gt;
+&lt;li&gt;Mayor riesgo global&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resultados-de-la-estrategia-de-diversificacion"&gt;
 &lt;h2&gt;Resultados de la estrategia de diversificación&lt;/h2&gt;
