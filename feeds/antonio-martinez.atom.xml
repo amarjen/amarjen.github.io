@@ -1,5 +1,246 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Economía ~ Empresa ~ Finanzas</title><link href="http://amarjen.github.io/" rel="alternate"></link><link href="http://amarjen.github.io/feeds/antonio-martinez.atom.xml" rel="self"></link><id>http://amarjen.github.io/</id><updated>2014-08-08T18:13:00+02:00</updated><entry><title>Estrategia tecnológica de la empresa</title><link href="http://amarjen.github.io/estrategia-tecnologica-empresa.html" rel="alternate"></link><updated>2014-08-08T18:13:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-08-08:estrategia-tecnologica-empresa.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/antonio-martinez.atom.xml" rel="self"></link><id>/</id><updated>2014-08-10T14:13:00+02:00</updated><entry><title>Estrategia, estructura y cambio</title><link href="/estrategia-organizacion-cambio.html" rel="alternate"></link><updated>2014-08-10T14:13:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-08-10:estrategia-organizacion-cambio.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+&lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 12&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- BEGIN_PELICAN_SUMMARY --&gt;
+&lt;p&gt;Existen multitud de modelos que explican la relación entre estructura y
+estrategia, éstos son útiles porque facilitan la identificación de&lt;/p&gt;
+&lt;!-- END_PELICAN_SUMMARY --&gt;
+&lt;ol class="loweralpha simple"&gt;
+&lt;li&gt;cuando un tipo de estructura es mejor dada una estragia implantada.&lt;/li&gt;
+&lt;li&gt;los elementos más importantes de la estrategia para el diseño de la estructura.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="section" id="la-relacion-entre-estructura-y-estrategia"&gt;
+&lt;h2&gt;La relación entre estructura y estrategia&lt;/h2&gt;
+&lt;p&gt;Hay dos grandes bloque de enfoques teóricos que explican la relación
+estructura~estrategia: los patrones evolutivos que se centran en el tamaño de
+la empresa y otros enfoque modernos centrados en los intangibles.&lt;/p&gt;
+&lt;div class="section" id="patrones-evolutivos"&gt;
+&lt;h3&gt;Patrones evolutivos&lt;/h3&gt;
+&lt;p&gt;La idea subyacente es que los directivos deciden cambiar las estructuras cuando éstas impiden implantar con éxito las estrategias.&lt;/p&gt;
+&lt;p&gt;Chandler resume los fundamentos de los patrones evolutivos ilustrando la evolución de la corporación industrial moderna en tres etapas:&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;1ª Etapa: Mercados Locales&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first"&gt;Influencias del entorno&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Transporte y comunicación lentos&lt;/li&gt;
+&lt;li&gt;Producción intensiva en mano de obra&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cambios de estructura&lt;/p&gt;
+&lt;ul class="last simple"&gt;
+&lt;li&gt;No hay sistemas complejos de contabilidad&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;2ª Etapa: Expansión geográfica&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first"&gt;Influencia del entorno&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Ferrocarril, telégrafo y mecanización permiten producción
+y distribución a gran escala&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cambios de estructura&lt;/p&gt;
+&lt;ul class="last simple"&gt;
+&lt;li&gt;Emergencia de estructuras funcionales&lt;/li&gt;
+&lt;li&gt;Desarrollo de sistemas de contabilidad&lt;/li&gt;
+&lt;li&gt;Distinción entre liíneas y &lt;em&gt;staff&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;3ª Etapa: Diversificación de producto&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first"&gt;Influencia del entorno&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Exceso de capacidad&lt;/li&gt;
+&lt;li&gt;Mayores posibilidades de financiación&lt;/li&gt;
+&lt;li&gt;Deseo de crecimiento&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cambios de estructura&lt;/p&gt;
+&lt;ul class="last simple"&gt;
+&lt;li&gt;Aumentan las dificultades para la coordinación funcional&lt;/li&gt;
+&lt;li&gt;Estructura funcional sustituida por estructura multidivisional&lt;/li&gt;
+&lt;li&gt;Dirección operativa&lt;/li&gt;
+&lt;li&gt;Dirección estrategica&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Los patrones evolutivos consideran que, conforme la empresa crece, se producen
+cambios en las relaciones entre las estrategias y las estructuras. Las
+distintas formas organizativas son: estructura simple, estructura funcional,
+estructura multidivisional y estructura híbrida. La estructura matricial es un
+caso particular de estructura híbrida.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Estructura simple&lt;/dt&gt;
+&lt;dd&gt;Propiedad y gestión coinciden.&lt;/dd&gt;
+&lt;dt&gt;Estructura funcional&lt;/dt&gt;
+&lt;dd&gt;Aparecen responsables de áreas funcionales (producción, marketing,
+finanzas...), que han de rendir cuentas a un director.&lt;/dd&gt;
+&lt;dt&gt;Estructura multidivisional&lt;/dt&gt;
+&lt;dd&gt;Se compone de un conjunto de divisiones operativas que representan un
+negocio independiente, dirigidas por un gerente que depende de la
+dirección central.&lt;/dd&gt;
+&lt;dt&gt;Estructura híbrida&lt;/dt&gt;
+&lt;dd&gt;Combina la configuración funcional y la multidivisional. Existen
+multitud de combinaciones posibles.&lt;/dd&gt;
+&lt;dt&gt;Estructura matricial&lt;/dt&gt;
+&lt;dd&gt;Es un caso particular de estructura híbrida.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Los modelos evolutivos han resultado válidos por mucho tiempo, hasta que la
+intensificación de la competencia de los años 80 del s.XX ha provocado que
+estos modelos presenten problemas a las empresas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="enfoques-modernos"&gt;
+&lt;h3&gt;Enfoques modernos&lt;/h3&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Enfoque del procesamiento de información&lt;/dt&gt;
+&lt;dd&gt;Ven a la empresa como un sistema que procesa información. Al describir
+la estrategia en términos de cantidad de información necesaria para
+implementarla, será posible explicar el ajuste entre tipo de estructura
+y tipo de estrategia.&lt;/dd&gt;
+&lt;dt&gt;Enfoque del conocimiento&lt;/dt&gt;
+&lt;dd&gt;Proponen que es posible diselar la estructura en función de la
+estrategia definida para la creación y la implantación de conocimiento.&lt;/dd&gt;
+&lt;dt&gt;Estructura ambidistra&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first"&gt;El enfoque que propone la estructura ambidistra sugiere que la
+estructura debe diseñarse en función de las necesidades/deseos de
+desarrollar y distribuir sus innovaciones.&lt;/p&gt;
+&lt;p&gt;La estructura ambidiestra permite que la empresa no caiga en las redes
+de la inercia posibilitando su renovación a través de la innovación.&lt;/p&gt;
+&lt;p&gt;El diseño contempla la separación de funciones y la integración del
+personal. La idea es crear equipos de trabajo independientes por
+proyecto de innovación.&lt;/p&gt;
+&lt;p class="last"&gt;Las unidades de innovacion se dedicarán a explorar oportunidades de
+crecimiento, mientras que las unidades tradicionales se dedicarán
+a explotar los recursos y capacidades existentes.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;El enfoque de contingencias&lt;/dt&gt;
+&lt;dd&gt;El enfoque de contingencias supone que los modelos modernos de hecho se
+aplican sobre estructuras que encajan en los modelos evolutivos
+y tradicionales. La mayoría de las empresas ha adoptado una estructura
+intermedia entre los extremos de una estructura mecánica (compleja,
+formal, centralizada y estandarizada) y una estructura orgánica.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="la-importancia-del-cambio-y-el-papel-del-directivo"&gt;
+&lt;h2&gt;La importancia del cambio y el papel del directivo&lt;/h2&gt;
+&lt;p&gt;El cambio estratégico, en contraposición a continuidad, es la diferencia que,
+con el paso del tiempo, se produce en la organización y en la relación de ésta
+con su entorno.&lt;/p&gt;
+&lt;p&gt;Las investigaciones entorno al cambio estratégico se han centrado por un lado
+en las causas y consecuencias del cambio, y por otro lado en el papel de los
+directivos en el proceso del cambio.&lt;/p&gt;
+&lt;div class="section" id="causas-y-consecuencias-del-cambio"&gt;
+&lt;h3&gt;Causas y consecuencias del cambio&lt;/h3&gt;
+&lt;p&gt;Para entender las causas y las consecuencias del cambio, partimos de la premisa
+de que las empresas están sujetas a fuertes inercias que les impiden realizar
+cambios en su estrategia para hacer frente a las amenazas del entorno.&lt;/p&gt;
+&lt;p&gt;Las fuerzas de inercia pueden ser internas o externas. La presencia de estas
+fuerzas ralentizan la respuesta a las amenazas y oportunidades del entorno.&lt;/p&gt;
+&lt;p&gt;Causas fundamentales del cambio:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;El tamaño y la edad de la empresa&lt;/li&gt;
+&lt;li&gt;La trayectoria estratégica&lt;/li&gt;
+&lt;li&gt;Las condiciones del entorno (Complejidad, incertidumbre, dinamismo)&lt;/li&gt;
+&lt;li&gt;Las características de la alta dirección (Edad, tiempo de permanencia, aprendizaje)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La consecuencia fundamental del cambio estratégico tiene que ver con las
+posibilidades de supervivencia.&lt;/p&gt;
+&lt;p&gt;Recordar, que es la cultura, la que a través del cambio hace que la empresa crezca.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="los-procesos-del-cambio"&gt;
+&lt;h3&gt;Los procesos del cambio&lt;/h3&gt;
+&lt;p&gt;El cambio es esencial para la supervivencia, pero plantea serias dificultades.
+La gestión del cambio es una responsabilidad corporativa esencial.&lt;/p&gt;
+&lt;p&gt;El triángulo del cambio distingue entre cambio dramático, sistemático y
+orgánico; se muestra útil para gestionar el cambio a través de la estrategia y
+de la estrucura.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Cambio dramático&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Desciende de los niveles superiores&lt;/li&gt;
+&lt;li&gt;Incita a la revolución&lt;/li&gt;
+&lt;li&gt;Proporciona ímpetu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Cambio sistemático&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Se genera de manera lateral&lt;/li&gt;
+&lt;li&gt;Produce reforma&lt;/li&gt;
+&lt;li&gt;Infunde orden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Cambio orgánico&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Emerge de los niveles inferiores&lt;/li&gt;
+&lt;li&gt;Produce rejuvenecimiento&lt;/li&gt;
+&lt;li&gt;Estimula la iniciativa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
+&lt;div class="section" id="el-papel-del-directivo"&gt;
+&lt;h3&gt;El papel del directivo&lt;/h3&gt;
+&lt;p&gt;El papel del directivo es fundamental para diagnosticar si es necesario el
+cambio, qué cambio, cómo y cuando implantarlo y a quién y cómo involucrar en el
+proceso.&lt;/p&gt;
+&lt;p&gt;De acuerdo con Gosling y Mintzberg, un buen directivo debe desarrollar cinco
+actitudes, o como ellos llaman: &lt;em&gt;las cinco mentes del directivo&lt;/em&gt;&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Metalidad &lt;strong&gt;reflexiva&lt;/strong&gt;, necesaria para gestionarse a sí mismo.&lt;/li&gt;
+&lt;li&gt;Metalidad &lt;strong&gt;analítica&lt;/strong&gt;, necesaria para gestionar la organización.&lt;/li&gt;
+&lt;li&gt;Metalidad &lt;strong&gt;mundana&lt;/strong&gt;, necesaria para gestionar el entorno de la empresa.&lt;/li&gt;
+&lt;li&gt;Metalidad &lt;strong&gt;colaborativa&lt;/strong&gt;, necesaria para gestionar las relaciones con los demás.&lt;/li&gt;
+&lt;li&gt;Metalidad &lt;strong&gt;de acción&lt;/strong&gt;, necesaria para gestionar el cambio.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class="section" id="la-gestion-del-cambio"&gt;
+&lt;h3&gt;La gestión del cambio&lt;/h3&gt;
+&lt;p&gt;Greenberg propone cuatro preguntas fundamentales que los líderes pueden
+plantearse para comprender la implantación del cambio de forma práctica.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;¿Que se quiere/se debe cambiar?&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;Se debe contemplar tres posibles blancos del cambio: La estructura, la
+tecnología y las personas.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;¿Cuándo debe producirse el cambio?&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;Los condicionantes son: el nivel de insatisfacción con las condiciones
+actuales, la disponibilidad de una alternativa y la existencia de un
+plan para implantar dicha alternativa.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;¿Qué obstáculos al cambio pueden encontrarse?&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;Las barreras pueden ser de origen individual y de la propia estructura.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;¿Cómo puede superarse la resistencia al cambio?&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;Es útil el politiqueo, la educación, la participación de los empleados
+y los incentivos a los directivos.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Además existen diversas técnicas para implantar el cambio como el fomento de la
+retroalimentación, la construcción de equipos, los círculos de calidad o la
+dirección por objetivos. El &amp;quot;desarrollo organizativo&amp;quot; consiste en la aplicación
+de un conjunto de estas técnicas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="referencias"&gt;
+&lt;h2&gt;Referencias&lt;/h2&gt;
+&lt;table class="docutils citation" frame="void" id="bil2013" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[BIL2013]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Paloma Bilbao, &lt;em&gt;et al&lt;/em&gt; (2013), &lt;em&gt;Política de Empresa y Estrategia&lt;/em&gt;, 3ªEd.,
+Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</summary><category term="estrategia"></category></entry><entry><title>Estrategia tecnológica de la empresa</title><link href="/estrategia-tecnologica-empresa.html" rel="alternate"></link><updated>2014-08-08T18:13:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-08-08:estrategia-tecnologica-empresa.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 5, epígrafe III&lt;/p&gt;
 &lt;/div&gt;
 
@@ -130,7 +371,7 @@ Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category></entry><entry><title>Modelo del ciclo de vida del sector</title><link href="http://amarjen.github.io/modelo-ciclo-vida-sector.html" rel="alternate"></link><updated>2014-08-07T18:29:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-08-07:modelo-ciclo-vida-sector.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+</summary><category term="estrategia"></category></entry><entry><title>Modelo del ciclo de vida del sector</title><link href="/modelo-ciclo-vida-sector.html" rel="alternate"></link><updated>2014-08-07T18:29:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-08-07:modelo-ciclo-vida-sector.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 3, epígrafe III&lt;/p&gt;
 &lt;/div&gt;
 
@@ -194,7 +435,7 @@ Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category></entry><entry><title>Apropiación de los beneficios de la innovación</title><link href="http://amarjen.github.io/apropiacion-beneficios-innovacion.html" rel="alternate"></link><updated>2014-08-03T11:40:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-08-03:apropiacion-beneficios-innovacion.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+</summary><category term="estrategia"></category></entry><entry><title>Apropiación de los beneficios de la innovación</title><link href="/apropiacion-beneficios-innovacion.html" rel="alternate"></link><updated>2014-08-03T11:40:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-08-03:apropiacion-beneficios-innovacion.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 5, epígrafe III&lt;/p&gt;
 &lt;/div&gt;
 
@@ -367,7 +608,7 @@ Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://ubr.universia.net/pdfs/UBR0012004070.pdf"&gt;http://ubr.universia.net/pdfs/UBR0012004070.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category></entry><entry><title>Fundamentos de la teoría de los recursos y capacidades</title><link href="http://amarjen.github.io/teoria-recursos-capacidades.html" rel="alternate"></link><updated>2014-08-01T12:33:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-08-01:teoria-recursos-capacidades.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+</summary><category term="estrategia"></category></entry><entry><title>Fundamentos de la teoría de los recursos y capacidades</title><link href="/teoria-recursos-capacidades.html" rel="alternate"></link><updated>2014-08-01T12:33:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-08-01:teoria-recursos-capacidades.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 1, epígrafe V&lt;/p&gt;
 &lt;/div&gt;
 
@@ -528,7 +769,7 @@ Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category></entry><entry><title>La esencia de la negociación</title><link href="http://amarjen.github.io/esencia-negociacion.html" rel="alternate"></link><updated>2014-07-30T21:13:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-30:esencia-negociacion.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+</summary><category term="estrategia"></category></entry><entry><title>La esencia de la negociación</title><link href="/esencia-negociacion.html" rel="alternate"></link><updated>2014-07-30T21:13:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-30:esencia-negociacion.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 11, epígrafe II&lt;/p&gt;
 &lt;/div&gt;
 
@@ -625,7 +866,7 @@ Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category></entry><entry><title>El gobierno corporativo en la práctica</title><link href="http://amarjen.github.io/gobierno-corporativo-practica.html" rel="alternate"></link><updated>2014-07-29T21:23:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-29:gobierno-corporativo-practica.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+</summary><category term="estrategia"></category></entry><entry><title>El gobierno corporativo en la práctica</title><link href="/gobierno-corporativo-practica.html" rel="alternate"></link><updated>2014-07-29T21:23:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-29:gobierno-corporativo-practica.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 14, epígrafe V&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="la-propiedad"&gt;
@@ -775,7 +1016,7 @@ Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category></entry><entry><title>El cuadro de mando integral y el mapa estratégico</title><link href="http://amarjen.github.io/cuadro-mando-integral-mapa-estrategico.html" rel="alternate"></link><updated>2014-07-28T23:46:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-28:cuadro-mando-integral-mapa-estrategico.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+</summary><category term="estrategia"></category></entry><entry><title>El cuadro de mando integral y el mapa estratégico</title><link href="/cuadro-mando-integral-mapa-estrategico.html" rel="alternate"></link><updated>2014-07-28T23:46:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-28:cuadro-mando-integral-mapa-estrategico.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bil2013" id="id1"&gt;[BIL2013]&lt;/a&gt; , capítulo 2, epígrafe III&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="cuadro-de-mando-integral"&gt;
@@ -965,7 +1206,7 @@ Editorial Universitas&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category></entry><entry><title>La estrategia en sectores maduros</title><link href="http://amarjen.github.io/estrategia-sectores-maduros.html" rel="alternate"></link><updated>2014-07-27T17:21:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-27:estrategia-sectores-maduros.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
+</summary><category term="estrategia"></category></entry><entry><title>La estrategia en sectores maduros</title><link href="/estrategia-sectores-maduros.html" rel="alternate"></link><updated>2014-07-27T17:21:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-27:estrategia-sectores-maduros.html</id><summary type="html">&lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Este artículo es un resumen de &lt;a class="citation-reference" href="#bilbao" id="id1"&gt;[Bilbao]&lt;/a&gt; , capítulo 4, epígrafe V&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Un sector entra en la fase de madurez cuando deja de crecer a un ritmo
@@ -1273,7 +1514,7 @@ Hall&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category></entry><entry><title>Estrategia e Internet</title><link href="http://amarjen.github.io/estrategia-internet.html" rel="alternate"></link><updated>2014-07-26T00:00:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-26:estrategia-internet.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Este artículo es un resumen de&lt;/strong&gt; &lt;a class="citation-reference" href="#bilbao-2013" id="id1"&gt;[BILBAO-2013]&lt;/a&gt; , &lt;strong&gt;capítulo 6&lt;/strong&gt;&lt;/p&gt;
+</summary><category term="estrategia"></category></entry><entry><title>Estrategia e Internet</title><link href="/estrategia-internet.html" rel="alternate"></link><updated>2014-07-26T00:00:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-26:estrategia-internet.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Este artículo es un resumen de&lt;/strong&gt; &lt;a class="citation-reference" href="#bilbao-2013" id="id1"&gt;[BILBAO-2013]&lt;/a&gt; , &lt;strong&gt;capítulo 6&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Internet incide en los tres terminos de la ecuación:&lt;/p&gt;
 &lt;p&gt;$$B_{\uparrow}=I_{\uparrow}-C_{\downarrow}$$&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -1424,7 +1665,7 @@ fijos&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category></entry><entry><title>Fundamentos teóricos del gobierno corporativo</title><link href="http://amarjen.github.io/fundamentos-teoricos-gobierno-corporativo.html" rel="alternate"></link><updated>2014-07-25T11:40:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-25:fundamentos-teoricos-gobierno-corporativo.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Este artículo es un resumen de&lt;/strong&gt; &lt;a class="citation-reference" href="#bilbao-2013" id="id1"&gt;[BILBAO-2013]&lt;/a&gt; &lt;strong&gt;epígrafe II, capítulo 14&lt;/strong&gt;&lt;/p&gt;
+</summary><category term="estrategia"></category></entry><entry><title>Fundamentos teóricos del gobierno corporativo</title><link href="/fundamentos-teoricos-gobierno-corporativo.html" rel="alternate"></link><updated>2014-07-25T11:40:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-25:fundamentos-teoricos-gobierno-corporativo.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Este artículo es un resumen de&lt;/strong&gt; &lt;a class="citation-reference" href="#bilbao-2013" id="id1"&gt;[BILBAO-2013]&lt;/a&gt; &lt;strong&gt;epígrafe II, capítulo 14&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Los fundamentos teóricos del gobierno corporativo son útiles para
 determinar si el origen de los problemas de eficiencia en la
 estrategia está o no en el sistema de gobierno de la empresa. Es esencial, por
@@ -1519,7 +1760,7 @@ teoría de la empresa de los &lt;em&gt;stackeholders&lt;/em&gt;&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category><category term="gobierno corporativo"></category></entry><entry><title>Dimensión estratégica del conocimiento</title><link href="http://amarjen.github.io/dimesion-estrategica-conocimiento.html" rel="alternate"></link><updated>2014-07-24T12:36:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-24:dimesion-estrategica-conocimiento.html</id><summary type="html">&lt;div class="section" id="el-conocimiento-de-la-empresa"&gt;
+</summary><category term="estrategia"></category><category term="gobierno corporativo"></category></entry><entry><title>Dimensión estratégica del conocimiento</title><link href="/dimesion-estrategica-conocimiento.html" rel="alternate"></link><updated>2014-07-24T12:36:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-24:dimesion-estrategica-conocimiento.html</id><summary type="html">&lt;div class="section" id="el-conocimiento-de-la-empresa"&gt;
 &lt;h2&gt;El conocimiento de la empresa&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Conceptos previos:&lt;/strong&gt;&lt;/p&gt;
 &lt;dl class="docutils"&gt;
@@ -1656,7 +1897,7 @@ La visión del empresa basada en el conocimiento, 3ªEd 2013, Editorial Universi
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="estrategia"></category><category term="conocimiento"></category></entry><entry><title>Eliminación de resultados por operaciones internas</title><link href="http://amarjen.github.io/eliminacion-resultados.html" rel="alternate"></link><updated>2014-07-24T15:56:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-20:eliminacion-resultados.html</id><summary type="html">&lt;div class="section" id="activo-financiero-al-coste-amortizado"&gt;
+</summary><category term="estrategia"></category><category term="conocimiento"></category></entry><entry><title>Eliminación de resultados por operaciones internas</title><link href="/eliminacion-resultados.html" rel="alternate"></link><updated>2014-07-24T15:56:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-20:eliminacion-resultados.html</id><summary type="html">&lt;div class="section" id="activo-financiero-al-coste-amortizado"&gt;
 &lt;h2&gt;Activo financiero al coste amortizado&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;2004&lt;/strong&gt;&lt;/p&gt;
 &lt;table border="1" class="apunte docutils"&gt;
@@ -1743,7 +1984,7 @@ representativos de deuda&lt;/td&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="contabilidad"></category><category term="consolidación"></category></entry><entry><title>Estrategias corporativas de crecimiento: Internacionalización y Diversificación</title><link href="http://amarjen.github.io/estrategias-corportativas-crecimiento.html" rel="alternate"></link><updated>2014-07-20T20:00:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2014-07-20:estrategias-corportativas-crecimiento.html</id><summary type="html">&lt;div class="section" id="introduccion"&gt;
+</summary><category term="contabilidad"></category><category term="consolidación"></category></entry><entry><title>Estrategias corporativas de crecimiento: Internacionalización y Diversificación</title><link href="/estrategias-corportativas-crecimiento.html" rel="alternate"></link><updated>2014-07-20T20:00:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2014-07-20:estrategias-corportativas-crecimiento.html</id><summary type="html">&lt;div class="section" id="introduccion"&gt;
 &lt;h2&gt;Introducción&lt;/h2&gt;
 &lt;p&gt;Clasificación de estrategias básicas: (Ansoff, 1977)&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
@@ -2140,7 +2381,7 @@ outsourcing&lt;/em&gt;)&lt;/p&gt;
 &lt;div class="section" id="resultados-de-la-estrategia-de-diversificacion"&gt;
 &lt;h2&gt;Resultados de la estrategia de diversificación&lt;/h2&gt;
 &lt;/div&gt;
-</summary><category term="contabilidad"></category><category term="estrategia"></category><category term="crecimiento"></category><category term="internacionalizacion"></category><category term="diversificacion"></category></entry><entry><title>Crear booklets de PDF en linux</title><link href="http://amarjen.github.io/crear-booklets-linux.html" rel="alternate"></link><updated>2014-07-25T20:05:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:amarjen.github.io,2013-04-13:crear-booklets-linux.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Problema:&lt;/strong&gt; Tenemos un archivo PDF y nos gustaría tenerlo impreso en formato
+</summary><category term="contabilidad"></category><category term="estrategia"></category><category term="crecimiento"></category><category term="internacionalizacion"></category><category term="diversificacion"></category></entry><entry><title>Crear booklets de PDF en linux</title><link href="/crear-booklets-linux.html" rel="alternate"></link><updated>2014-07-25T20:05:00+02:00</updated><author><name>Antonio Martínez</name></author><id>tag:,2013-04-13:crear-booklets-linux.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Problema:&lt;/strong&gt; Tenemos un archivo PDF y nos gustaría tenerlo impreso en formato
 booklet para facilitar la lectura, ahorrar papel, etc&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Solución:&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;pdf2ps input.pdf -| psbook | psnup -Pa4 -pa4 -2 -d | ps2pdf - output.pdf
